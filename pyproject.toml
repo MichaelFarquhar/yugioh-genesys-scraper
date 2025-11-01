@@ -1,0 +1,10 @@
+[project]
+name = "yugioh-genesys-scraper"
+version = "0.1.0"
+description = "Scraper for Yu-Gi-Oh! Genesys points data"
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+]
+
