@@ -141,7 +141,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
+          "cardmarket_price": "0.05",
           "tcgplayer_price": "0.09",
           "ebay_price": "1.75",
           "amazon_price": "1.68",
@@ -205,8 +205,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.42",
-          "tcgplayer_price": "0.42",
+          "cardmarket_price": "0.61",
+          "tcgplayer_price": "0.43",
           "ebay_price": "3.26",
           "amazon_price": "4.82",
           "coolstuffinc_price": "0.99"
@@ -258,8 +258,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.16",
-          "tcgplayer_price": "0.47",
+          "cardmarket_price": "0.85",
+          "tcgplayer_price": "0.43",
           "ebay_price": "1.99",
           "amazon_price": "7.44",
           "coolstuffinc_price": "1.99"
@@ -322,8 +322,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.22",
-          "tcgplayer_price": "0.09",
+          "cardmarket_price": "0.23",
+          "tcgplayer_price": "0.21",
           "ebay_price": "1.60",
           "amazon_price": "0.49",
           "coolstuffinc_price": "0.39"
@@ -379,8 +379,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "9.95",
-          "tcgplayer_price": "42.82",
+          "cardmarket_price": "7.94",
+          "tcgplayer_price": "48.95",
           "ebay_price": "17.97",
           "amazon_price": "0.00",
           "coolstuffinc_price": "29.99"
@@ -597,8 +597,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
-          "tcgplayer_price": "0.21",
+          "cardmarket_price": "0.17",
+          "tcgplayer_price": "0.22",
           "ebay_price": "2.49",
           "amazon_price": "2.98",
           "coolstuffinc_price": "0.39"
@@ -647,8 +647,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.57",
-          "tcgplayer_price": "2.39",
+          "cardmarket_price": "1.41",
+          "tcgplayer_price": "2.08",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -718,7 +718,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.04",
+          "cardmarket_price": "0.09",
           "tcgplayer_price": "0.04",
           "ebay_price": "3.00",
           "amazon_price": "1.01",
@@ -766,8 +766,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.13",
+          "cardmarket_price": "0.14",
+          "tcgplayer_price": "0.14",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -815,8 +815,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "8.16",
-          "tcgplayer_price": "3.20",
+          "cardmarket_price": "8.17",
+          "tcgplayer_price": "3.77",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -876,7 +876,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.08",
+          "cardmarket_price": "0.11",
           "tcgplayer_price": "0.10",
           "ebay_price": "2.95",
           "amazon_price": "0.59",
@@ -1110,8 +1110,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.10",
+          "cardmarket_price": "0.12",
+          "tcgplayer_price": "0.13",
           "ebay_price": "1.99",
           "amazon_price": "1.56",
           "coolstuffinc_price": "0.49"
@@ -1174,7 +1174,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.35",
+          "cardmarket_price": "0.32",
           "tcgplayer_price": "0.22",
           "ebay_price": "3.49",
           "amazon_price": "1.49",
@@ -1238,7 +1238,7 @@
       "card_prices": [
         {
           "cardmarket_price": "1.20",
-          "tcgplayer_price": "0.40",
+          "tcgplayer_price": "0.38",
           "ebay_price": "29.99",
           "amazon_price": "24.51",
           "coolstuffinc_price": "0.00"
@@ -1321,7 +1321,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.23",
+          "tcgplayer_price": "0.22",
           "ebay_price": "4.95",
           "amazon_price": "89.99",
           "coolstuffinc_price": "0.39"
@@ -1375,8 +1375,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.15",
+          "cardmarket_price": "0.18",
+          "tcgplayer_price": "0.23",
           "ebay_price": "7.95",
           "amazon_price": "1.26",
           "coolstuffinc_price": "0.49"
@@ -1476,7 +1476,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.50",
+          "cardmarket_price": "0.46",
           "tcgplayer_price": "0.17",
           "ebay_price": "8.06",
           "amazon_price": "0.50",
@@ -1558,7 +1558,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.20",
-          "tcgplayer_price": "0.12",
+          "tcgplayer_price": "0.13",
           "ebay_price": "1.79",
           "amazon_price": "2.14",
           "coolstuffinc_price": "0.49"
@@ -1605,7 +1605,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "3.11",
+          "cardmarket_price": "2.52",
           "tcgplayer_price": "2.90",
           "ebay_price": "1.94",
           "amazon_price": "1.25",
@@ -1793,8 +1793,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.95",
-          "tcgplayer_price": "1.69",
+          "cardmarket_price": "1.10",
+          "tcgplayer_price": "1.34",
           "ebay_price": "11.95",
           "amazon_price": "28.99",
           "coolstuffinc_price": "4.99"
@@ -1857,8 +1857,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
-          "tcgplayer_price": "0.15",
+          "cardmarket_price": "0.15",
+          "tcgplayer_price": "0.16",
           "ebay_price": "6.29",
           "amazon_price": "0.00",
           "coolstuffinc_price": "29.99"
@@ -1955,7 +1955,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
+          "cardmarket_price": "0.12",
           "tcgplayer_price": "0.14",
           "ebay_price": "8.49",
           "amazon_price": "5.75",
@@ -2074,8 +2074,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.02",
-          "tcgplayer_price": "0.14",
+          "cardmarket_price": "0.05",
+          "tcgplayer_price": "0.13",
           "ebay_price": "1.89",
           "amazon_price": "5.88",
           "coolstuffinc_price": "0.49"
@@ -2152,8 +2152,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.22",
-          "tcgplayer_price": "0.16",
+          "cardmarket_price": "0.15",
+          "tcgplayer_price": "0.17",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -2230,8 +2230,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.16",
+          "cardmarket_price": "0.08",
+          "tcgplayer_price": "0.17",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -2317,7 +2317,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
+          "cardmarket_price": "0.10",
           "tcgplayer_price": "0.12",
           "ebay_price": "0.99",
           "amazon_price": "0.25",
@@ -2357,7 +2357,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.24",
+          "cardmarket_price": "0.20",
           "tcgplayer_price": "0.20",
           "ebay_price": "0.99",
           "amazon_price": "1.03",
@@ -2438,8 +2438,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.21",
-          "tcgplayer_price": "0.35",
+          "cardmarket_price": "1.32",
+          "tcgplayer_price": "0.43",
           "ebay_price": "4.99",
           "amazon_price": "113.70",
           "coolstuffinc_price": "54.99"
@@ -2486,8 +2486,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.31",
-          "tcgplayer_price": "0.25",
+          "cardmarket_price": "0.27",
+          "tcgplayer_price": "0.21",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -2542,7 +2542,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.55",
+          "tcgplayer_price": "0.53",
           "ebay_price": "0.99",
           "amazon_price": "0.83",
           "coolstuffinc_price": "0.39"
@@ -2597,7 +2597,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.55",
+          "tcgplayer_price": "0.53",
           "ebay_price": "0.99",
           "amazon_price": "0.83",
           "coolstuffinc_price": "0.39"
@@ -2654,8 +2654,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.28",
-          "tcgplayer_price": "0.47",
+          "cardmarket_price": "0.25",
+          "tcgplayer_price": "0.45",
           "ebay_price": "0.99",
           "amazon_price": "1.28",
           "coolstuffinc_price": "0.49"
@@ -2709,7 +2709,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.41",
+          "cardmarket_price": "0.29",
           "tcgplayer_price": "0.44",
           "ebay_price": "1.39",
           "amazon_price": "0.60",
@@ -2774,8 +2774,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.24",
-          "tcgplayer_price": "0.23",
+          "cardmarket_price": "0.22",
+          "tcgplayer_price": "0.25",
           "ebay_price": "0.99",
           "amazon_price": "0.83",
           "coolstuffinc_price": "0.39"
@@ -2833,8 +2833,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.53",
-          "tcgplayer_price": "0.29",
+          "cardmarket_price": "0.48",
+          "tcgplayer_price": "0.33",
           "ebay_price": "2.40",
           "amazon_price": "3.42",
           "coolstuffinc_price": "2.99"
@@ -2895,8 +2895,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.73",
-          "tcgplayer_price": "0.81",
+          "cardmarket_price": "0.59",
+          "tcgplayer_price": "0.83",
           "ebay_price": "1.49",
           "amazon_price": "0.80",
           "coolstuffinc_price": "0.25"
@@ -2964,7 +2964,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.21",
-          "tcgplayer_price": "0.15",
+          "tcgplayer_price": "0.19",
           "ebay_price": "1.24",
           "amazon_price": "0.39",
           "coolstuffinc_price": "0.49"
@@ -3033,8 +3033,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.29",
-          "tcgplayer_price": "0.34",
+          "cardmarket_price": "0.27",
+          "tcgplayer_price": "0.37",
           "ebay_price": "3.49",
           "amazon_price": "3.00",
           "coolstuffinc_price": "1.99"
@@ -3138,7 +3138,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.09",
-          "tcgplayer_price": "0.14",
+          "tcgplayer_price": "0.13",
           "ebay_price": "14.59",
           "amazon_price": "0.00",
           "coolstuffinc_price": "23.99"
@@ -3221,7 +3221,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.18",
-          "tcgplayer_price": "0.23",
+          "tcgplayer_price": "0.24",
           "ebay_price": "2.99",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.49"
@@ -3278,7 +3278,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.08",
+          "cardmarket_price": "0.11",
           "tcgplayer_price": "0.13",
           "ebay_price": "0.99",
           "amazon_price": "2.50",
@@ -3397,8 +3397,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.08",
-          "tcgplayer_price": "0.10",
+          "cardmarket_price": "0.12",
+          "tcgplayer_price": "0.12",
           "ebay_price": "2.48",
           "amazon_price": "0.49",
           "coolstuffinc_price": "0.25"
@@ -3453,8 +3453,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
-          "tcgplayer_price": "0.72",
+          "cardmarket_price": "0.20",
+          "tcgplayer_price": "0.83",
           "ebay_price": "3.95",
           "amazon_price": "2.50",
           "coolstuffinc_price": "1.49"
@@ -3571,7 +3571,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.06",
+          "cardmarket_price": "0.09",
           "tcgplayer_price": "0.11",
           "ebay_price": "10.95",
           "amazon_price": "4.99",
@@ -3623,8 +3623,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.13",
-          "tcgplayer_price": "0.46",
+          "cardmarket_price": "1.42",
+          "tcgplayer_price": "0.42",
           "ebay_price": "2.29",
           "amazon_price": "0.99",
           "coolstuffinc_price": "1.99"
@@ -3700,8 +3700,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.25",
-          "tcgplayer_price": "0.32",
+          "cardmarket_price": "0.27",
+          "tcgplayer_price": "0.34",
           "ebay_price": "64.95",
           "amazon_price": "39.99",
           "coolstuffinc_price": "9.99"
@@ -3780,8 +3780,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.27",
-          "tcgplayer_price": "0.31",
+          "cardmarket_price": "0.31",
+          "tcgplayer_price": "0.29",
           "ebay_price": "3.50",
           "amazon_price": "1.89",
           "coolstuffinc_price": "0.25"
@@ -3880,8 +3880,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.36",
-          "tcgplayer_price": "0.62",
+          "cardmarket_price": "1.33",
+          "tcgplayer_price": "0.65",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -4019,8 +4019,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.23",
-          "tcgplayer_price": "0.22",
+          "cardmarket_price": "0.20",
+          "tcgplayer_price": "0.25",
           "ebay_price": "1.20",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.25"
@@ -4368,8 +4368,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
-          "tcgplayer_price": "0.16",
+          "cardmarket_price": "0.10",
+          "tcgplayer_price": "0.15",
           "ebay_price": "49.99",
           "amazon_price": "0.85",
           "coolstuffinc_price": "0.39"
@@ -4408,7 +4408,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.22",
+          "cardmarket_price": "0.15",
           "tcgplayer_price": "0.36",
           "ebay_price": "1.61",
           "amazon_price": "0.98",
@@ -4465,8 +4465,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "5.59",
-          "tcgplayer_price": "3.78",
+          "cardmarket_price": "6.40",
+          "tcgplayer_price": "4.95",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -4516,7 +4516,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
+          "cardmarket_price": "0.09",
           "tcgplayer_price": "0.07",
           "ebay_price": "0.99",
           "amazon_price": "0.25",
@@ -4582,8 +4582,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.26",
-          "tcgplayer_price": "0.19",
+          "cardmarket_price": "0.25",
+          "tcgplayer_price": "0.24",
           "ebay_price": "37.00",
           "amazon_price": "2.05",
           "coolstuffinc_price": "3.99"
@@ -4637,7 +4637,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
+          "cardmarket_price": "0.12",
           "tcgplayer_price": "0.10",
           "ebay_price": "1.25",
           "amazon_price": "0.25",
@@ -4700,8 +4700,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.12",
-          "tcgplayer_price": "0.10",
+          "cardmarket_price": "0.13",
+          "tcgplayer_price": "0.09",
           "ebay_price": "0.99",
           "amazon_price": "4.40",
           "coolstuffinc_price": "0.39"
@@ -4780,8 +4780,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.62",
-          "tcgplayer_price": "0.49",
+          "cardmarket_price": "0.53",
+          "tcgplayer_price": "0.51",
           "ebay_price": "6.95",
           "amazon_price": "0.99",
           "coolstuffinc_price": "0.99"
@@ -4864,8 +4864,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.21",
-          "tcgplayer_price": "0.20",
+          "cardmarket_price": "0.23",
+          "tcgplayer_price": "0.19",
           "ebay_price": "33.99",
           "amazon_price": "5.98",
           "coolstuffinc_price": "0.39"
@@ -4932,7 +4932,7 @@
       "card_prices": [
         {
           "cardmarket_price": "1.00",
-          "tcgplayer_price": "0.89",
+          "tcgplayer_price": "0.80",
           "ebay_price": "3.29",
           "amazon_price": "15.28",
           "coolstuffinc_price": "0.99"
@@ -4997,8 +4997,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.32",
-          "tcgplayer_price": "0.25",
+          "cardmarket_price": "0.34",
+          "tcgplayer_price": "0.37",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.49"
@@ -5055,7 +5055,7 @@
       "card_prices": [
         {
           "cardmarket_price": "9.95",
-          "tcgplayer_price": "23.50",
+          "tcgplayer_price": "23.05",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "15.99"
@@ -5121,8 +5121,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.40",
-          "tcgplayer_price": "0.44",
+          "cardmarket_price": "0.39",
+          "tcgplayer_price": "0.45",
           "ebay_price": "13.96",
           "amazon_price": "0.25",
           "coolstuffinc_price": "3.99"
@@ -5188,8 +5188,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.33",
-          "tcgplayer_price": "0.41",
+          "cardmarket_price": "0.32",
+          "tcgplayer_price": "0.42",
           "ebay_price": "4.99",
           "amazon_price": "0.20",
           "coolstuffinc_price": "7.99"
@@ -5251,8 +5251,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.27",
-          "tcgplayer_price": "0.38",
+          "cardmarket_price": "0.30",
+          "tcgplayer_price": "0.34",
           "ebay_price": "2.84",
           "amazon_price": "1.65",
           "coolstuffinc_price": "2.99"
@@ -5358,8 +5358,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.15",
-          "tcgplayer_price": "0.31",
+          "cardmarket_price": "0.17",
+          "tcgplayer_price": "0.35",
           "ebay_price": "2.99",
           "amazon_price": "0.57",
           "coolstuffinc_price": "1.99"
@@ -5579,8 +5579,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.67",
-          "tcgplayer_price": "1.16",
+          "cardmarket_price": "1.29",
+          "tcgplayer_price": "1.09",
           "ebay_price": "5.95",
           "amazon_price": "5.62",
           "coolstuffinc_price": "2.99"
@@ -5694,7 +5694,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.16",
-          "tcgplayer_price": "0.07",
+          "tcgplayer_price": "0.08",
           "ebay_price": "3.90",
           "amazon_price": "1.42",
           "coolstuffinc_price": "0.99"
@@ -5807,7 +5807,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
+          "cardmarket_price": "0.12",
           "tcgplayer_price": "0.17",
           "ebay_price": "0.99",
           "amazon_price": "0.99",
@@ -5871,8 +5871,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.54",
-          "tcgplayer_price": "0.32",
+          "cardmarket_price": "0.48",
+          "tcgplayer_price": "0.36",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -5936,7 +5936,7 @@
       "card_prices": [
         {
           "cardmarket_price": "4.79",
-          "tcgplayer_price": "5.10",
+          "tcgplayer_price": "5.22",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "35.99"
@@ -5998,8 +5998,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "4.40",
-          "tcgplayer_price": "5.57",
+          "cardmarket_price": "4.48",
+          "tcgplayer_price": "5.65",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "29.99"
@@ -6041,7 +6041,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.01",
+          "cardmarket_price": "0.93",
           "tcgplayer_price": "0.67",
           "ebay_price": "1.75",
           "amazon_price": "0.83",
@@ -6254,7 +6254,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.39",
+          "cardmarket_price": "0.40",
           "tcgplayer_price": "0.33",
           "ebay_price": "1.99",
           "amazon_price": "2.99",
@@ -6319,7 +6319,7 @@
       "card_prices": [
         {
           "cardmarket_price": "7.54",
-          "tcgplayer_price": "31.53",
+          "tcgplayer_price": "32.39",
           "ebay_price": "44.99",
           "amazon_price": "0.00",
           "coolstuffinc_price": "54.99"
@@ -6414,7 +6414,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.23",
+          "cardmarket_price": "0.19",
           "tcgplayer_price": "0.13",
           "ebay_price": "3.84",
           "amazon_price": "0.37",
@@ -6482,8 +6482,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.41",
-          "tcgplayer_price": "0.64",
+          "cardmarket_price": "0.39",
+          "tcgplayer_price": "0.79",
           "ebay_price": "1.98",
           "amazon_price": "23.99",
           "coolstuffinc_price": "0.99"
@@ -6554,8 +6554,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
-          "tcgplayer_price": "0.15",
+          "cardmarket_price": "0.12",
+          "tcgplayer_price": "0.14",
           "ebay_price": "4.99",
           "amazon_price": "1.95",
           "coolstuffinc_price": "2.99"
@@ -6686,7 +6686,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.15",
+          "cardmarket_price": "0.13",
           "tcgplayer_price": "0.14",
           "ebay_price": "19.99",
           "amazon_price": "5.89",
@@ -6736,8 +6736,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.27",
-          "tcgplayer_price": "1.42",
+          "cardmarket_price": "1.35",
+          "tcgplayer_price": "1.23",
           "ebay_price": "3.99",
           "amazon_price": "4.11",
           "coolstuffinc_price": "1.49"
@@ -6822,8 +6822,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.24",
-          "tcgplayer_price": "0.59",
+          "cardmarket_price": "0.29",
+          "tcgplayer_price": "0.56",
           "ebay_price": "0.99",
           "amazon_price": "1.07",
           "coolstuffinc_price": "0.79"
@@ -6902,8 +6902,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.57",
-          "tcgplayer_price": "1.27",
+          "cardmarket_price": "1.09",
+          "tcgplayer_price": "1.38",
           "ebay_price": "1.74",
           "amazon_price": "5.69",
           "coolstuffinc_price": "2.99"
@@ -6979,8 +6979,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.18",
-          "tcgplayer_price": "0.29",
+          "cardmarket_price": "0.02",
+          "tcgplayer_price": "0.34",
           "ebay_price": "2.95",
           "amazon_price": "1.45",
           "coolstuffinc_price": "0.79"
@@ -7041,7 +7041,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.06",
+          "cardmarket_price": "0.07",
           "tcgplayer_price": "0.06",
           "ebay_price": "2.00",
           "amazon_price": "0.00",
@@ -7104,8 +7104,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.47",
-          "tcgplayer_price": "0.90",
+          "cardmarket_price": "0.62",
+          "tcgplayer_price": "0.89",
           "ebay_price": "4.95",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.49"
@@ -7330,7 +7330,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.08",
-          "tcgplayer_price": "0.01",
+          "tcgplayer_price": "0.10",
           "ebay_price": "10.99",
           "amazon_price": "5.69",
           "coolstuffinc_price": "0.39"
@@ -7434,8 +7434,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
-          "tcgplayer_price": "0.26",
+          "cardmarket_price": "0.23",
+          "tcgplayer_price": "0.27",
           "ebay_price": "5.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "21.99"
@@ -7535,7 +7535,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.43",
-          "tcgplayer_price": "0.77",
+          "tcgplayer_price": "0.75",
           "ebay_price": "13.50",
           "amazon_price": "2.00",
           "coolstuffinc_price": "5.99"
@@ -7585,8 +7585,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
-          "tcgplayer_price": "0.11",
+          "cardmarket_price": "0.08",
+          "tcgplayer_price": "0.09",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -7641,8 +7641,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.32",
-          "tcgplayer_price": "1.42",
+          "cardmarket_price": "1.37",
+          "tcgplayer_price": "1.32",
           "ebay_price": "0.99",
           "amazon_price": "0.20",
           "coolstuffinc_price": "0.25"
@@ -7691,7 +7691,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.17",
+          "tcgplayer_price": "0.15",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -7746,8 +7746,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.26",
-          "tcgplayer_price": "0.45",
+          "cardmarket_price": "0.24",
+          "tcgplayer_price": "0.51",
           "ebay_price": "0.99",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.49"
@@ -7867,7 +7867,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.06",
-          "tcgplayer_price": "0.09",
+          "tcgplayer_price": "0.08",
           "ebay_price": "0.99",
           "amazon_price": "4.98",
           "coolstuffinc_price": "0.25"
@@ -7999,7 +7999,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.15",
+          "cardmarket_price": "0.20",
           "tcgplayer_price": "0.16",
           "ebay_price": "5.94",
           "amazon_price": "6.31",
@@ -8229,8 +8229,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.04",
-          "tcgplayer_price": "1.49",
+          "cardmarket_price": "0.89",
+          "tcgplayer_price": "1.56",
           "ebay_price": "4.50",
           "amazon_price": "6.49",
           "coolstuffinc_price": "1.99"
@@ -8284,7 +8284,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.09",
+          "cardmarket_price": "0.79",
           "tcgplayer_price": "0.77",
           "ebay_price": "2.49",
           "amazon_price": "1.50",
@@ -8362,7 +8362,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.15",
+          "cardmarket_price": "0.36",
           "tcgplayer_price": "0.19",
           "ebay_price": "0.99",
           "amazon_price": "3.76",
@@ -8433,8 +8433,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.14",
-          "tcgplayer_price": "2.56",
+          "cardmarket_price": "1.02",
+          "tcgplayer_price": "2.61",
           "ebay_price": "0.99",
           "amazon_price": "0.73",
           "coolstuffinc_price": "1.49"
@@ -8661,7 +8661,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.10",
+          "cardmarket_price": "0.06",
           "tcgplayer_price": "0.11",
           "ebay_price": "1.83",
           "amazon_price": "1.42",
@@ -8739,7 +8739,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.13",
-          "tcgplayer_price": "0.06",
+          "tcgplayer_price": "0.09",
           "ebay_price": "4.80",
           "amazon_price": "2.94",
           "coolstuffinc_price": "0.25"
@@ -8794,8 +8794,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.20",
-          "tcgplayer_price": "0.34",
+          "cardmarket_price": "0.07",
+          "tcgplayer_price": "0.30",
           "ebay_price": "1.39",
           "amazon_price": "1.25",
           "coolstuffinc_price": "0.49"
@@ -8858,7 +8858,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.06",
-          "tcgplayer_price": "0.33",
+          "tcgplayer_price": "0.34",
           "ebay_price": "2.59",
           "amazon_price": "5.94",
           "coolstuffinc_price": "0.39"
@@ -8949,7 +8949,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.23",
-          "tcgplayer_price": "0.24",
+          "tcgplayer_price": "0.25",
           "ebay_price": "7.99",
           "amazon_price": "7.97",
           "coolstuffinc_price": "0.25"
@@ -9004,8 +9004,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.96",
-          "tcgplayer_price": "0.77",
+          "cardmarket_price": "0.84",
+          "tcgplayer_price": "0.92",
           "ebay_price": "2.95",
           "amazon_price": "1.98",
           "coolstuffinc_price": "1.99"
@@ -9074,7 +9074,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
+          "cardmarket_price": "0.20",
           "tcgplayer_price": "0.23",
           "ebay_price": "1.89",
           "amazon_price": "4.95",
@@ -9158,7 +9158,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
+          "cardmarket_price": "0.10",
           "tcgplayer_price": "0.12",
           "ebay_price": "7.99",
           "amazon_price": "4.99",
@@ -9270,7 +9270,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
+          "cardmarket_price": "0.10",
           "tcgplayer_price": "0.13",
           "ebay_price": "4.95",
           "amazon_price": "13.99",
@@ -9326,8 +9326,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.17",
+          "cardmarket_price": "0.14",
+          "tcgplayer_price": "0.19",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -9691,7 +9691,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
+          "cardmarket_price": "0.25",
           "tcgplayer_price": "0.16",
           "ebay_price": "2.00",
           "amazon_price": "5.98",
@@ -9774,8 +9774,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.25",
-          "tcgplayer_price": "0.28",
+          "cardmarket_price": "0.19",
+          "tcgplayer_price": "0.30",
           "ebay_price": "2.34",
           "amazon_price": "2.19",
           "coolstuffinc_price": "0.25"
@@ -9829,8 +9829,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "4.93",
-          "tcgplayer_price": "3.78",
+          "cardmarket_price": "4.91",
+          "tcgplayer_price": "3.94",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -9883,7 +9883,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.54",
+          "cardmarket_price": "0.97",
           "tcgplayer_price": "0.03",
           "ebay_price": "0.00",
           "amazon_price": "0.79",
@@ -9930,7 +9930,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
+          "cardmarket_price": "0.18",
           "tcgplayer_price": "0.15",
           "ebay_price": "0.99",
           "amazon_price": "1.19",
@@ -10024,8 +10024,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "6.01",
-          "tcgplayer_price": "6.22",
+          "cardmarket_price": "6.66",
+          "tcgplayer_price": "5.38",
           "ebay_price": "24.99",
           "amazon_price": "24.99",
           "coolstuffinc_price": "25.99"
@@ -10078,8 +10078,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.15",
-          "tcgplayer_price": "0.30",
+          "cardmarket_price": "0.16",
+          "tcgplayer_price": "0.29",
           "ebay_price": "2.79",
           "amazon_price": "0.66",
           "coolstuffinc_price": "2.99"
@@ -10136,7 +10136,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
+          "cardmarket_price": "0.11",
           "tcgplayer_price": "0.13",
           "ebay_price": "24.99",
           "amazon_price": "11.91",
@@ -10226,7 +10226,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.08",
+          "cardmarket_price": "0.14",
           "tcgplayer_price": "0.10",
           "ebay_price": "3.99",
           "amazon_price": "2.95",
@@ -10297,8 +10297,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.47",
-          "tcgplayer_price": "0.41",
+          "cardmarket_price": "0.37",
+          "tcgplayer_price": "0.45",
           "ebay_price": "14.99",
           "amazon_price": "51.99",
           "coolstuffinc_price": "5.99"
@@ -10388,7 +10388,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.20",
-          "tcgplayer_price": "0.21",
+          "tcgplayer_price": "0.20",
           "ebay_price": "1.30",
           "amazon_price": "1.65",
           "coolstuffinc_price": "0.49"
@@ -10483,8 +10483,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.37",
-          "tcgplayer_price": "0.31",
+          "cardmarket_price": "0.40",
+          "tcgplayer_price": "0.25",
           "ebay_price": "20.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "3.99"
@@ -10547,8 +10547,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.27",
-          "tcgplayer_price": "0.19",
+          "cardmarket_price": "0.23",
+          "tcgplayer_price": "0.18",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -10683,8 +10683,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.31",
-          "tcgplayer_price": "0.47",
+          "cardmarket_price": "0.29",
+          "tcgplayer_price": "0.46",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "39.99"
@@ -10873,7 +10873,7 @@
       "card_prices": [
         {
           "cardmarket_price": "5.70",
-          "tcgplayer_price": "5.39",
+          "tcgplayer_price": "5.34",
           "ebay_price": "32.99",
           "amazon_price": "32.94",
           "coolstuffinc_price": "29.99"
@@ -10953,7 +10953,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.03",
-          "tcgplayer_price": "0.14",
+          "tcgplayer_price": "0.12",
           "ebay_price": "0.99",
           "amazon_price": "14.42",
           "coolstuffinc_price": "1.49"
@@ -11044,7 +11044,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.19",
+          "cardmarket_price": "0.06",
           "tcgplayer_price": "0.23",
           "ebay_price": "7.29",
           "amazon_price": "0.25",
@@ -11092,8 +11092,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.17",
-          "tcgplayer_price": "0.21",
+          "cardmarket_price": "0.24",
+          "tcgplayer_price": "0.22",
           "ebay_price": "5.99",
           "amazon_price": "4.67",
           "coolstuffinc_price": "1.99"
@@ -11140,8 +11140,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.27",
-          "tcgplayer_price": "0.16",
+          "cardmarket_price": "0.16",
+          "tcgplayer_price": "0.15",
           "ebay_price": "2.78",
           "amazon_price": "4.67",
           "coolstuffinc_price": "0.99"
@@ -11195,7 +11195,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.12",
+          "cardmarket_price": "0.10",
           "tcgplayer_price": "0.07",
           "ebay_price": "0.99",
           "amazon_price": "0.00",
@@ -11252,8 +11252,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.30",
-          "tcgplayer_price": "1.42",
+          "cardmarket_price": "0.22",
+          "tcgplayer_price": "1.18",
           "ebay_price": "2.55",
           "amazon_price": "3.59",
           "coolstuffinc_price": "2.99"
@@ -11456,7 +11456,7 @@
       "card_prices": [
         {
           "cardmarket_price": "4.90",
-          "tcgplayer_price": "8.38",
+          "tcgplayer_price": "8.44",
           "ebay_price": "15.99",
           "amazon_price": "15.41",
           "coolstuffinc_price": "13.99"
@@ -11533,8 +11533,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "3.72",
-          "tcgplayer_price": "5.44",
+          "cardmarket_price": "3.76",
+          "tcgplayer_price": "5.18",
           "ebay_price": "8.50",
           "amazon_price": "3.64",
           "coolstuffinc_price": "6.99"
@@ -11593,7 +11593,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
+          "cardmarket_price": "0.02",
           "tcgplayer_price": "0.35",
           "ebay_price": "1.29",
           "amazon_price": "0.99",
@@ -11649,8 +11649,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "4.22",
-          "tcgplayer_price": "4.75",
+          "cardmarket_price": "3.93",
+          "tcgplayer_price": "4.16",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -11740,7 +11740,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
+          "cardmarket_price": "0.13",
           "tcgplayer_price": "0.20",
           "ebay_price": "1.42",
           "amazon_price": "767.77",
@@ -11809,7 +11809,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
+          "cardmarket_price": "0.22",
           "tcgplayer_price": "0.16",
           "ebay_price": "0.99",
           "amazon_price": "0.39",
@@ -11863,8 +11863,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "35.57",
-          "tcgplayer_price": "40.09",
+          "cardmarket_price": "32.95",
+          "tcgplayer_price": "39.80",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -11917,8 +11917,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "21.76",
-          "tcgplayer_price": "28.37",
+          "cardmarket_price": "19.46",
+          "tcgplayer_price": "23.70",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -11965,8 +11965,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "11.87",
-          "tcgplayer_price": "11.37",
+          "cardmarket_price": "11.10",
+          "tcgplayer_price": "11.26",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -12030,7 +12030,7 @@
       "card_prices": [
         {
           "cardmarket_price": "3.20",
-          "tcgplayer_price": "4.89",
+          "tcgplayer_price": "5.38",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -12092,8 +12092,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "6.16",
-          "tcgplayer_price": "9.00",
+          "cardmarket_price": "4.79",
+          "tcgplayer_price": "10.12",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -12149,7 +12149,7 @@
       "card_prices": [
         {
           "cardmarket_price": "2.79",
-          "tcgplayer_price": "7.79",
+          "tcgplayer_price": "7.72",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -12218,8 +12218,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "5.46",
-          "tcgplayer_price": "33.18",
+          "cardmarket_price": "5.19",
+          "tcgplayer_price": "34.03",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -12287,8 +12287,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.51",
-          "tcgplayer_price": "0.41",
+          "cardmarket_price": "0.47",
+          "tcgplayer_price": "0.43",
           "ebay_price": "9.99",
           "amazon_price": "4.93",
           "coolstuffinc_price": "3.99"
@@ -12351,8 +12351,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.29",
-          "tcgplayer_price": "0.71",
+          "cardmarket_price": "0.30",
+          "tcgplayer_price": "0.42",
           "ebay_price": "2.44",
           "amazon_price": "4.51",
           "coolstuffinc_price": "0.99"
@@ -12502,8 +12502,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.47",
+          "cardmarket_price": "0.24",
+          "tcgplayer_price": "0.45",
           "ebay_price": "1.00",
           "amazon_price": "0.99",
           "coolstuffinc_price": "0.79"
@@ -12550,8 +12550,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.05",
-          "tcgplayer_price": "0.08",
+          "cardmarket_price": "0.07",
+          "tcgplayer_price": "0.09",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -12591,7 +12591,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.17",
-          "tcgplayer_price": "0.23",
+          "tcgplayer_price": "0.21",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -12735,8 +12735,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.19",
-          "tcgplayer_price": "1.24",
+          "cardmarket_price": "1.16",
+          "tcgplayer_price": "1.10",
           "ebay_price": "4.00",
           "amazon_price": "18.48",
           "coolstuffinc_price": "2.99"
@@ -12784,7 +12784,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.22",
+          "cardmarket_price": "1.17",
           "tcgplayer_price": "0.32",
           "ebay_price": "1.29",
           "amazon_price": "1.01",
@@ -12841,8 +12841,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.32",
-          "tcgplayer_price": "0.33",
+          "cardmarket_price": "0.29",
+          "tcgplayer_price": "0.32",
           "ebay_price": "1.50",
           "amazon_price": "14.45",
           "coolstuffinc_price": "0.25"
@@ -12881,8 +12881,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "5.63",
-          "tcgplayer_price": "5.29",
+          "cardmarket_price": "6.15",
+          "tcgplayer_price": "5.44",
           "ebay_price": "1.99",
           "amazon_price": "0.00",
           "coolstuffinc_price": "21.99"
@@ -12965,7 +12965,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
+          "cardmarket_price": "0.09",
           "tcgplayer_price": "0.08",
           "ebay_price": "1.22",
           "amazon_price": "0.50",
@@ -13046,7 +13046,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.33",
-          "tcgplayer_price": "0.44",
+          "tcgplayer_price": "0.43",
           "ebay_price": "1.85",
           "amazon_price": "0.76",
           "coolstuffinc_price": "0.39"
@@ -13227,7 +13227,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.21",
           "tcgplayer_price": "0.33",
           "ebay_price": "6.97",
           "amazon_price": "2.52",
@@ -13284,7 +13284,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.46",
+          "cardmarket_price": "0.27",
           "tcgplayer_price": "0.34",
           "ebay_price": "1.68",
           "amazon_price": "0.75",
@@ -13410,8 +13410,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.08",
-          "tcgplayer_price": "0.11",
+          "cardmarket_price": "0.10",
+          "tcgplayer_price": "0.09",
           "ebay_price": "4.95",
           "amazon_price": "4.54",
           "coolstuffinc_price": "1.99"
@@ -13477,7 +13477,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.55",
+          "cardmarket_price": "0.54",
           "tcgplayer_price": "0.25",
           "ebay_price": "2.43",
           "amazon_price": "1.85",
@@ -13554,8 +13554,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.26",
-          "tcgplayer_price": "0.24",
+          "cardmarket_price": "0.21",
+          "tcgplayer_price": "0.25",
           "ebay_price": "1.99",
           "amazon_price": "9.49",
           "coolstuffinc_price": "1.49"
@@ -13714,8 +13714,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.84",
-          "tcgplayer_price": "1.45",
+          "cardmarket_price": "1.11",
+          "tcgplayer_price": "1.46",
           "ebay_price": "4.95",
           "amazon_price": "8.84",
           "coolstuffinc_price": "2.99"
@@ -13770,8 +13770,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "7.44",
-          "tcgplayer_price": "11.21",
+          "cardmarket_price": "8.08",
+          "tcgplayer_price": "10.28",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -13915,7 +13915,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.12",
+          "cardmarket_price": "0.09",
           "tcgplayer_price": "0.22",
           "ebay_price": "1.49",
           "amazon_price": "4.50",
@@ -13980,7 +13980,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
+          "cardmarket_price": "0.09",
           "tcgplayer_price": "0.04",
           "ebay_price": "0.99",
           "amazon_price": "0.00",
@@ -14035,8 +14035,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.23",
-          "tcgplayer_price": "0.32",
+          "cardmarket_price": "0.20",
+          "tcgplayer_price": "0.29",
           "ebay_price": "1.88",
           "amazon_price": "0.84",
           "coolstuffinc_price": "0.49"
@@ -14124,8 +14124,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.41",
-          "tcgplayer_price": "1.35",
+          "cardmarket_price": "1.27",
+          "tcgplayer_price": "1.25",
           "ebay_price": "1.20",
           "amazon_price": "30.49",
           "coolstuffinc_price": "5.99"
@@ -14181,7 +14181,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.71",
+          "cardmarket_price": "1.82",
           "tcgplayer_price": "1.02",
           "ebay_price": "6.50",
           "amazon_price": "1.12",
@@ -14320,7 +14320,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.12",
+          "cardmarket_price": "0.06",
           "tcgplayer_price": "0.12",
           "ebay_price": "4.99",
           "amazon_price": "1.48",
@@ -14384,8 +14384,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.33",
-          "tcgplayer_price": "5.60",
+          "cardmarket_price": "2.42",
+          "tcgplayer_price": "5.42",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "9.99"
@@ -14448,8 +14448,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "8.04",
-          "tcgplayer_price": "6.08",
+          "cardmarket_price": "8.72",
+          "tcgplayer_price": "6.54",
           "ebay_price": "1.70",
           "amazon_price": "12.07",
           "coolstuffinc_price": "3.99"
@@ -14552,7 +14552,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.06",
           "tcgplayer_price": "0.11",
           "ebay_price": "8.06",
           "amazon_price": "17.59",
@@ -14626,8 +14626,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.39",
-          "tcgplayer_price": "1.12",
+          "cardmarket_price": "1.64",
+          "tcgplayer_price": "0.95",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -14690,8 +14690,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.40",
-          "tcgplayer_price": "0.25",
+          "cardmarket_price": "0.30",
+          "tcgplayer_price": "0.36",
           "ebay_price": "1.95",
           "amazon_price": "2.00",
           "coolstuffinc_price": "0.99"
@@ -14783,7 +14783,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
+          "cardmarket_price": "0.14",
           "tcgplayer_price": "0.10",
           "ebay_price": "2.95",
           "amazon_price": "9.32",
@@ -15082,7 +15082,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.05",
+          "cardmarket_price": "0.10",
           "tcgplayer_price": "0.10",
           "ebay_price": "1.48",
           "amazon_price": "1.97",
@@ -15146,7 +15146,7 @@
       "card_prices": [
         {
           "cardmarket_price": "4.11",
-          "tcgplayer_price": "2.94",
+          "tcgplayer_price": "3.20",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -15194,8 +15194,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.77",
-          "tcgplayer_price": "1.23",
+          "cardmarket_price": "0.78",
+          "tcgplayer_price": "1.35",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -15269,8 +15269,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.28",
-          "tcgplayer_price": "0.67",
+          "cardmarket_price": "0.12",
+          "tcgplayer_price": "0.63",
           "ebay_price": "1.19",
           "amazon_price": "1.47",
           "coolstuffinc_price": "0.99"
@@ -15325,8 +15325,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.72",
-          "tcgplayer_price": "0.61",
+          "cardmarket_price": "0.69",
+          "tcgplayer_price": "0.58",
           "ebay_price": "0.99",
           "amazon_price": "0.49",
           "coolstuffinc_price": "0.79"
@@ -15373,8 +15373,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.30",
-          "tcgplayer_price": "0.27",
+          "cardmarket_price": "0.29",
+          "tcgplayer_price": "0.25",
           "ebay_price": "13.90",
           "amazon_price": "12.48",
           "coolstuffinc_price": "3.99"
@@ -15421,8 +15421,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.65",
-          "tcgplayer_price": "0.36",
+          "cardmarket_price": "0.72",
+          "tcgplayer_price": "0.40",
           "ebay_price": "1.19",
           "amazon_price": "3.98",
           "coolstuffinc_price": "0.99"
@@ -15491,8 +15491,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.31",
-          "tcgplayer_price": "1.46",
+          "cardmarket_price": "0.36",
+          "tcgplayer_price": "1.44",
           "ebay_price": "0.99",
           "amazon_price": "1.71",
           "coolstuffinc_price": "0.25"
@@ -15765,8 +15765,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.08",
-          "tcgplayer_price": "0.17",
+          "cardmarket_price": "0.09",
+          "tcgplayer_price": "0.13",
           "ebay_price": "6.99",
           "amazon_price": "1.42",
           "coolstuffinc_price": "0.39"
@@ -15850,7 +15850,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.32",
+          "cardmarket_price": "1.13",
           "tcgplayer_price": "0.37",
           "ebay_price": "0.99",
           "amazon_price": "4.44",
@@ -16010,7 +16010,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.26",
           "tcgplayer_price": "0.33",
           "ebay_price": "2.19",
           "amazon_price": "2.27",
@@ -16107,8 +16107,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.18",
-          "tcgplayer_price": "4.95",
+          "cardmarket_price": "2.42",
+          "tcgplayer_price": "4.29",
           "ebay_price": "4.99",
           "amazon_price": "59.55",
           "coolstuffinc_price": "23.99"
@@ -16275,7 +16275,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.11",
-          "tcgplayer_price": "0.15",
+          "tcgplayer_price": "0.16",
           "ebay_price": "1.25",
           "amazon_price": "0.55",
           "coolstuffinc_price": "0.39"
@@ -16391,7 +16391,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.08",
           "tcgplayer_price": "0.11",
           "ebay_price": "0.99",
           "amazon_price": "0.33",
@@ -16484,8 +16484,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.97",
-          "tcgplayer_price": "1.96",
+          "cardmarket_price": "2.02",
+          "tcgplayer_price": "1.95",
           "ebay_price": "3.39",
           "amazon_price": "1.93",
           "coolstuffinc_price": "1.49"
@@ -16546,8 +16546,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.07",
+          "cardmarket_price": "0.12",
+          "tcgplayer_price": "0.06",
           "ebay_price": "0.99",
           "amazon_price": "3.59",
           "coolstuffinc_price": "0.39"
@@ -16636,8 +16636,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.43",
-          "tcgplayer_price": "0.63",
+          "cardmarket_price": "0.44",
+          "tcgplayer_price": "0.61",
           "ebay_price": "1.94",
           "amazon_price": "12.18",
           "coolstuffinc_price": "2.99"
@@ -16699,8 +16699,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.42",
-          "tcgplayer_price": "0.35",
+          "cardmarket_price": "0.45",
+          "tcgplayer_price": "0.38",
           "ebay_price": "3.49",
           "amazon_price": "3.69",
           "coolstuffinc_price": "1.99"
@@ -16843,8 +16843,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.12",
-          "tcgplayer_price": "0.15",
+          "cardmarket_price": "0.10",
+          "tcgplayer_price": "0.13",
           "ebay_price": "2.79",
           "amazon_price": "1.20",
           "coolstuffinc_price": "1.99"
@@ -16938,7 +16938,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.12",
           "tcgplayer_price": "0.15",
           "ebay_price": "2.99",
           "amazon_price": "3.75",
@@ -17050,7 +17050,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.15",
-          "tcgplayer_price": "1.09",
+          "tcgplayer_price": "1.24",
           "ebay_price": "2.90",
           "amazon_price": "5.90",
           "coolstuffinc_price": "1.49"
@@ -17091,7 +17091,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.02",
-          "tcgplayer_price": "0.22",
+          "tcgplayer_price": "0.19",
           "ebay_price": "2.00",
           "amazon_price": "4.24",
           "coolstuffinc_price": "0.00"
@@ -17222,8 +17222,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
-          "tcgplayer_price": "0.21",
+          "cardmarket_price": "0.27",
+          "tcgplayer_price": "0.22",
           "ebay_price": "1.50",
           "amazon_price": "1.75",
           "coolstuffinc_price": "0.79"
@@ -17432,7 +17432,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.15",
-          "tcgplayer_price": "0.33",
+          "tcgplayer_price": "0.32",
           "ebay_price": "2.30",
           "amazon_price": "1.71",
           "coolstuffinc_price": "0.79"
@@ -17577,8 +17577,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
-          "tcgplayer_price": "0.17",
+          "cardmarket_price": "0.15",
+          "tcgplayer_price": "0.19",
           "ebay_price": "1.34",
           "amazon_price": "1.17",
           "coolstuffinc_price": "0.49"
@@ -17818,8 +17818,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.65",
-          "tcgplayer_price": "0.65",
+          "cardmarket_price": "0.56",
+          "tcgplayer_price": "0.64",
           "ebay_price": "3.00",
           "amazon_price": "4.49",
           "coolstuffinc_price": "2.99"
@@ -17877,8 +17877,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.80",
-          "tcgplayer_price": "0.40",
+          "cardmarket_price": "0.68",
+          "tcgplayer_price": "0.37",
           "ebay_price": "16.90",
           "amazon_price": "1.15",
           "coolstuffinc_price": "0.99"
@@ -17932,8 +17932,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.25",
-          "tcgplayer_price": "0.11",
+          "cardmarket_price": "0.27",
+          "tcgplayer_price": "0.10",
           "ebay_price": "1.79",
           "amazon_price": "1.79",
           "coolstuffinc_price": "1.99"
@@ -17973,7 +17973,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.18",
+          "cardmarket_price": "0.17",
           "tcgplayer_price": "0.05",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
@@ -18013,8 +18013,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.90",
-          "tcgplayer_price": "1.94",
+          "cardmarket_price": "1.02",
+          "tcgplayer_price": "1.89",
           "ebay_price": "4.99",
           "amazon_price": "1.00",
           "coolstuffinc_price": "1.99"
@@ -18070,7 +18070,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.05",
+          "cardmarket_price": "0.08",
           "tcgplayer_price": "0.06",
           "ebay_price": "1.94",
           "amazon_price": "2.84",
@@ -18139,8 +18139,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.49",
-          "tcgplayer_price": "0.75",
+          "cardmarket_price": "0.30",
+          "tcgplayer_price": "0.74",
           "ebay_price": "1.95",
           "amazon_price": "1.99",
           "coolstuffinc_price": "0.49"
@@ -18187,7 +18187,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.25",
+          "cardmarket_price": "0.26",
           "tcgplayer_price": "0.35",
           "ebay_price": "0.99",
           "amazon_price": "1.29",
@@ -18278,8 +18278,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.60",
-          "tcgplayer_price": "1.62",
+          "cardmarket_price": "0.53",
+          "tcgplayer_price": "1.49",
           "ebay_price": "1.24",
           "amazon_price": "0.78",
           "coolstuffinc_price": "0.79"
@@ -18326,8 +18326,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.50",
-          "tcgplayer_price": "0.29",
+          "cardmarket_price": "0.54",
+          "tcgplayer_price": "0.28",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -18381,8 +18381,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.78",
-          "tcgplayer_price": "0.41",
+          "cardmarket_price": "0.70",
+          "tcgplayer_price": "0.37",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -18572,8 +18572,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.13",
+          "cardmarket_price": "0.11",
+          "tcgplayer_price": "0.14",
           "ebay_price": "1.89",
           "amazon_price": "2.52",
           "coolstuffinc_price": "0.39"
@@ -18658,8 +18658,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.31",
-          "tcgplayer_price": "0.48",
+          "cardmarket_price": "0.27",
+          "tcgplayer_price": "0.46",
           "ebay_price": "2.30",
           "amazon_price": "4.99",
           "coolstuffinc_price": "1.99"
@@ -18781,7 +18781,7 @@
       "card_prices": [
         {
           "cardmarket_price": "1.90",
-          "tcgplayer_price": "3.99",
+          "tcgplayer_price": "4.02",
           "ebay_price": "2.99",
           "amazon_price": "9.18",
           "coolstuffinc_price": "4.99"
@@ -18850,8 +18850,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.21",
-          "tcgplayer_price": "0.28",
+          "cardmarket_price": "0.22",
+          "tcgplayer_price": "0.29",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "11.99"
@@ -18948,7 +18948,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
+          "cardmarket_price": "0.11",
           "tcgplayer_price": "0.11",
           "ebay_price": "0.99",
           "amazon_price": "1.81",
@@ -18998,8 +18998,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.37",
-          "tcgplayer_price": "0.42",
+          "cardmarket_price": "0.41",
+          "tcgplayer_price": "0.45",
           "ebay_price": "3.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "1.99"
@@ -19045,8 +19045,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.36",
-          "tcgplayer_price": "0.86",
+          "cardmarket_price": "0.57",
+          "tcgplayer_price": "1.03",
           "ebay_price": "0.99",
           "amazon_price": "0.98",
           "coolstuffinc_price": "0.49"
@@ -19158,8 +19158,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.84",
-          "tcgplayer_price": "0.31",
+          "cardmarket_price": "0.85",
+          "tcgplayer_price": "0.30",
           "ebay_price": "7.99",
           "amazon_price": "599.99",
           "coolstuffinc_price": "9.99"
@@ -19271,8 +19271,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.22",
+          "cardmarket_price": "0.15",
+          "tcgplayer_price": "0.19",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "49.99"
@@ -19421,7 +19421,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.50",
-          "tcgplayer_price": "2.22",
+          "tcgplayer_price": "2.76",
           "ebay_price": "1.90",
           "amazon_price": "16.98",
           "coolstuffinc_price": "1.99"
@@ -19489,8 +19489,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.30",
-          "tcgplayer_price": "0.41",
+          "cardmarket_price": "0.21",
+          "tcgplayer_price": "0.44",
           "ebay_price": "7.59",
           "amazon_price": "10.34",
           "coolstuffinc_price": "6.99"
@@ -19552,8 +19552,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.46",
-          "tcgplayer_price": "2.15",
+          "cardmarket_price": "1.54",
+          "tcgplayer_price": "2.20",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -19655,8 +19655,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.40",
-          "tcgplayer_price": "0.22",
+          "cardmarket_price": "0.46",
+          "tcgplayer_price": "0.26",
           "ebay_price": "3.57",
           "amazon_price": "3.38",
           "coolstuffinc_price": "2.99"
@@ -19978,8 +19978,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
-          "tcgplayer_price": "0.07",
+          "cardmarket_price": "0.10",
+          "tcgplayer_price": "0.10",
           "ebay_price": "7.49",
           "amazon_price": "3.64",
           "coolstuffinc_price": "1.99"
@@ -20050,7 +20050,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.15",
-          "tcgplayer_price": "0.15",
+          "tcgplayer_price": "0.19",
           "ebay_price": "2.49",
           "amazon_price": "1.63",
           "coolstuffinc_price": "0.25"
@@ -20124,8 +20124,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.12",
-          "tcgplayer_price": "0.16",
+          "cardmarket_price": "0.14",
+          "tcgplayer_price": "0.17",
           "ebay_price": "1.99",
           "amazon_price": "1.97",
           "coolstuffinc_price": "0.39"
@@ -20165,8 +20165,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.21",
-          "tcgplayer_price": "0.45",
+          "cardmarket_price": "0.32",
+          "tcgplayer_price": "0.49",
           "ebay_price": "1.49",
           "amazon_price": "0.73",
           "coolstuffinc_price": "0.49"
@@ -20231,8 +20231,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.14",
-          "tcgplayer_price": "1.91",
+          "cardmarket_price": "2.09",
+          "tcgplayer_price": "1.80",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -20280,8 +20280,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.36",
-          "tcgplayer_price": "0.71",
+          "cardmarket_price": "0.41",
+          "tcgplayer_price": "0.66",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -20335,8 +20335,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.70",
-          "tcgplayer_price": "2.26",
+          "cardmarket_price": "0.79",
+          "tcgplayer_price": "3.85",
           "ebay_price": "34.99",
           "amazon_price": "79.95",
           "coolstuffinc_price": "9.99"
@@ -20450,8 +20450,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.34",
-          "tcgplayer_price": "0.27",
+          "cardmarket_price": "0.29",
+          "tcgplayer_price": "0.29",
           "ebay_price": "3.75",
           "amazon_price": "1.18",
           "coolstuffinc_price": "0.79"
@@ -20513,8 +20513,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "17.02",
-          "tcgplayer_price": "16.81",
+          "cardmarket_price": "16.72",
+          "tcgplayer_price": "17.45",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "39.99"
@@ -20560,8 +20560,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.30",
-          "tcgplayer_price": "0.31",
+          "cardmarket_price": "0.27",
+          "tcgplayer_price": "0.36",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -20637,7 +20637,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
+          "cardmarket_price": "0.18",
           "tcgplayer_price": "0.23",
           "ebay_price": "2.99",
           "amazon_price": "29.88",
@@ -20700,8 +20700,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "3.27",
-          "tcgplayer_price": "2.79",
+          "cardmarket_price": "2.95",
+          "tcgplayer_price": "2.36",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "1.99"
@@ -20751,7 +20751,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.62",
+          "cardmarket_price": "0.77",
           "tcgplayer_price": "2.97",
           "ebay_price": "3.95",
           "amazon_price": "2.99",
@@ -20875,8 +20875,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.28",
-          "tcgplayer_price": "1.54",
+          "cardmarket_price": "1.01",
+          "tcgplayer_price": "1.48",
           "ebay_price": "3.29",
           "amazon_price": "14.46",
           "coolstuffinc_price": "7.99"
@@ -20951,8 +20951,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.02",
-          "tcgplayer_price": "0.13",
+          "cardmarket_price": "0.03",
+          "tcgplayer_price": "0.12",
           "ebay_price": "4.95",
           "amazon_price": "0.50",
           "coolstuffinc_price": "0.99"
@@ -21087,7 +21087,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.70",
+          "tcgplayer_price": "0.62",
           "ebay_price": "1.53",
           "amazon_price": "1.55",
           "coolstuffinc_price": "0.99"
@@ -21148,8 +21148,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.22",
+          "cardmarket_price": "0.23",
+          "tcgplayer_price": "0.23",
           "ebay_price": "0.99",
           "amazon_price": "0.40",
           "coolstuffinc_price": "0.49"
@@ -21212,8 +21212,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.39",
-          "tcgplayer_price": "0.96",
+          "cardmarket_price": "0.32",
+          "tcgplayer_price": "0.78",
           "ebay_price": "19.99",
           "amazon_price": "4.63",
           "coolstuffinc_price": "3.99"
@@ -21269,8 +21269,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.76",
-          "tcgplayer_price": "0.49",
+          "cardmarket_price": "0.80",
+          "tcgplayer_price": "0.44",
           "ebay_price": "1.74",
           "amazon_price": "29.99",
           "coolstuffinc_price": "0.99"
@@ -21323,8 +21323,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "6.06",
-          "tcgplayer_price": "7.46",
+          "cardmarket_price": "6.39",
+          "tcgplayer_price": "6.29",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -21408,7 +21408,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.17",
+          "cardmarket_price": "0.11",
           "tcgplayer_price": "0.20",
           "ebay_price": "0.99",
           "amazon_price": "0.67",
@@ -21502,7 +21502,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.50",
-          "tcgplayer_price": "0.24",
+          "tcgplayer_price": "0.31",
           "ebay_price": "0.99",
           "amazon_price": "2.57",
           "coolstuffinc_price": "0.39"
@@ -21578,7 +21578,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
+          "cardmarket_price": "0.11",
           "tcgplayer_price": "0.09",
           "ebay_price": "1.99",
           "amazon_price": "1.55",
@@ -21634,8 +21634,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "20.98",
-          "tcgplayer_price": "21.16",
+          "cardmarket_price": "18.16",
+          "tcgplayer_price": "23.43",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -21691,8 +21691,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.27",
-          "tcgplayer_price": "0.18",
+          "cardmarket_price": "0.21",
+          "tcgplayer_price": "0.16",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -21758,7 +21758,7 @@
       "card_prices": [
         {
           "cardmarket_price": "4.12",
-          "tcgplayer_price": "17.86",
+          "tcgplayer_price": "16.17",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -21816,8 +21816,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.25",
-          "tcgplayer_price": "0.34",
+          "cardmarket_price": "0.21",
+          "tcgplayer_price": "0.23",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -21880,7 +21880,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.88",
-          "tcgplayer_price": "0.00",
+          "tcgplayer_price": "0.52",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -21929,7 +21929,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.23",
+          "cardmarket_price": "0.19",
           "tcgplayer_price": "0.17",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
@@ -22040,8 +22040,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "12.21",
-          "tcgplayer_price": "6.79",
+          "cardmarket_price": "12.33",
+          "tcgplayer_price": "6.73",
           "ebay_price": "10.35",
           "amazon_price": "0.00",
           "coolstuffinc_price": "55.99"
@@ -22106,8 +22106,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "12.25",
-          "tcgplayer_price": "13.39",
+          "cardmarket_price": "11.61",
+          "tcgplayer_price": "13.02",
           "ebay_price": "24.99",
           "amazon_price": "1.73",
           "coolstuffinc_price": "15.99"
@@ -22165,8 +22165,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "4.55",
-          "tcgplayer_price": "3.78",
+          "cardmarket_price": "4.67",
+          "tcgplayer_price": "3.45",
           "ebay_price": "7.99",
           "amazon_price": "0.00",
           "coolstuffinc_price": "2.99"
@@ -22218,8 +22218,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.96",
-          "tcgplayer_price": "0.60",
+          "cardmarket_price": "1.39",
+          "tcgplayer_price": "0.61",
           "ebay_price": "1.59",
           "amazon_price": "7.50",
           "coolstuffinc_price": "5.99"
@@ -22271,8 +22271,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.60",
-          "tcgplayer_price": "0.82",
+          "cardmarket_price": "0.57",
+          "tcgplayer_price": "0.99",
           "ebay_price": "1.49",
           "amazon_price": "0.49",
           "coolstuffinc_price": "3.99"
@@ -22322,8 +22322,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.22",
-          "tcgplayer_price": "0.18",
+          "cardmarket_price": "0.20",
+          "tcgplayer_price": "0.23",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -22402,8 +22402,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.08",
-          "tcgplayer_price": "0.11",
+          "cardmarket_price": "0.17",
+          "tcgplayer_price": "0.09",
           "ebay_price": "0.99",
           "amazon_price": "0.29",
           "coolstuffinc_price": "0.49"
@@ -22456,8 +22456,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.97",
-          "tcgplayer_price": "2.95",
+          "cardmarket_price": "1.71",
+          "tcgplayer_price": "3.54",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "11.99"
@@ -22512,8 +22512,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.05",
+          "cardmarket_price": "0.11",
+          "tcgplayer_price": "0.08",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -22575,8 +22575,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.61",
-          "tcgplayer_price": "0.44",
+          "cardmarket_price": "0.59",
+          "tcgplayer_price": "0.45",
           "ebay_price": "2.25",
           "amazon_price": "14.75",
           "coolstuffinc_price": "1.99"
@@ -22673,7 +22673,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.08",
+          "cardmarket_price": "1.14",
           "tcgplayer_price": "1.01",
           "ebay_price": "0.99",
           "amazon_price": "10.66",
@@ -22750,7 +22750,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.27",
           "tcgplayer_price": "0.44",
           "ebay_price": "1.49",
           "amazon_price": "1.49",
@@ -22807,7 +22807,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.19",
-          "tcgplayer_price": "0.11",
+          "tcgplayer_price": "0.14",
           "ebay_price": "0.99",
           "amazon_price": "0.69",
           "coolstuffinc_price": "0.25"
@@ -23023,8 +23023,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.99",
-          "tcgplayer_price": "0.98",
+          "cardmarket_price": "0.97",
+          "tcgplayer_price": "1.14",
           "ebay_price": "2.99",
           "amazon_price": "1.09",
           "coolstuffinc_price": "9.99"
@@ -23080,8 +23080,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "4.04",
-          "tcgplayer_price": "2.61",
+          "cardmarket_price": "3.91",
+          "tcgplayer_price": "2.50",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -23130,8 +23130,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.37",
-          "tcgplayer_price": "5.41",
+          "cardmarket_price": "1.35",
+          "tcgplayer_price": "3.65",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "11.99"
@@ -23203,7 +23203,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.61",
+          "cardmarket_price": "0.59",
           "tcgplayer_price": "1.99",
           "ebay_price": "14.99",
           "amazon_price": "13.04",
@@ -23350,8 +23350,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.77",
-          "tcgplayer_price": "0.58",
+          "cardmarket_price": "0.59",
+          "tcgplayer_price": "0.62",
           "ebay_price": "43.99",
           "amazon_price": "6.03",
           "coolstuffinc_price": "4.99"
@@ -23524,7 +23524,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.11",
-          "tcgplayer_price": "0.13",
+          "tcgplayer_price": "0.12",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -23587,8 +23587,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.43",
-          "tcgplayer_price": "0.37",
+          "cardmarket_price": "0.30",
+          "tcgplayer_price": "0.30",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -23679,7 +23679,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.19",
+          "cardmarket_price": "0.25",
           "tcgplayer_price": "0.25",
           "ebay_price": "4.99",
           "amazon_price": "7.48",
@@ -23787,7 +23787,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.07",
           "tcgplayer_price": "0.12",
           "ebay_price": "1.99",
           "amazon_price": "1.08",
@@ -23844,8 +23844,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.42",
-          "tcgplayer_price": "0.23",
+          "cardmarket_price": "0.46",
+          "tcgplayer_price": "0.22",
           "ebay_price": "3.49",
           "amazon_price": "0.49",
           "coolstuffinc_price": "1.99"
@@ -23908,8 +23908,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.92",
-          "tcgplayer_price": "1.31",
+          "cardmarket_price": "1.06",
+          "tcgplayer_price": "2.02",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -24012,8 +24012,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.09",
+          "cardmarket_price": "0.11",
+          "tcgplayer_price": "0.11",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -24116,7 +24116,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.02",
-          "tcgplayer_price": "3.36",
+          "tcgplayer_price": "3.18",
           "ebay_price": "9.95",
           "amazon_price": "89.69",
           "coolstuffinc_price": "13.99"
@@ -24178,8 +24178,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.73",
-          "tcgplayer_price": "1.70",
+          "cardmarket_price": "1.89",
+          "tcgplayer_price": "1.98",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -24310,8 +24310,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
-          "tcgplayer_price": "0.13",
+          "cardmarket_price": "0.05",
+          "tcgplayer_price": "0.14",
           "ebay_price": "0.99",
           "amazon_price": "0.78",
           "coolstuffinc_price": "0.25"
@@ -24371,8 +24371,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.35",
-          "tcgplayer_price": "0.37",
+          "cardmarket_price": "0.33",
+          "tcgplayer_price": "0.41",
           "ebay_price": "2.49",
           "amazon_price": "1.87",
           "coolstuffinc_price": "0.49"
@@ -24435,8 +24435,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.18",
-          "tcgplayer_price": "0.14",
+          "cardmarket_price": "0.16",
+          "tcgplayer_price": "0.16",
           "ebay_price": "1.26",
           "amazon_price": "0.55",
           "coolstuffinc_price": "0.39"
@@ -24484,8 +24484,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
-          "tcgplayer_price": "0.18",
+          "cardmarket_price": "0.11",
+          "tcgplayer_price": "0.15",
           "ebay_price": "0.99",
           "amazon_price": "0.53",
           "coolstuffinc_price": "0.25"
@@ -24525,8 +24525,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.74",
-          "tcgplayer_price": "0.58",
+          "cardmarket_price": "0.66",
+          "tcgplayer_price": "0.56",
           "ebay_price": "2.38",
           "amazon_price": "2.42",
           "coolstuffinc_price": "4.99"
@@ -24575,8 +24575,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.24",
-          "tcgplayer_price": "0.29",
+          "cardmarket_price": "0.25",
+          "tcgplayer_price": "0.30",
           "ebay_price": "1.99",
           "amazon_price": "0.99",
           "coolstuffinc_price": "0.49"
@@ -24633,7 +24633,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.19",
+          "cardmarket_price": "0.17",
           "tcgplayer_price": "0.61",
           "ebay_price": "7.32",
           "amazon_price": "9.60",
@@ -24683,7 +24683,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.12",
+          "cardmarket_price": "0.11",
           "tcgplayer_price": "0.18",
           "ebay_price": "2.00",
           "amazon_price": "1.27",
@@ -24743,7 +24743,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.02",
+          "cardmarket_price": "0.16",
           "tcgplayer_price": "0.59",
           "ebay_price": "4.50",
           "amazon_price": "1.00",
@@ -24793,8 +24793,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.22",
-          "tcgplayer_price": "3.06",
+          "cardmarket_price": "1.29",
+          "tcgplayer_price": "2.90",
           "ebay_price": "2.95",
           "amazon_price": "2.17",
           "coolstuffinc_price": "1.99"
@@ -24876,7 +24876,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.17",
+          "cardmarket_price": "0.16",
           "tcgplayer_price": "0.17",
           "ebay_price": "0.99",
           "amazon_price": "0.25",
@@ -25016,7 +25016,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.02",
-          "tcgplayer_price": "0.23",
+          "tcgplayer_price": "0.22",
           "ebay_price": "0.99",
           "amazon_price": "1.69",
           "coolstuffinc_price": "0.39"
@@ -25062,7 +25062,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.05",
+          "cardmarket_price": "0.08",
           "tcgplayer_price": "0.05",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
@@ -25147,7 +25147,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
+          "cardmarket_price": "0.15",
           "tcgplayer_price": "0.09",
           "ebay_price": "234.99",
           "amazon_price": "2.90",
@@ -25253,7 +25253,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.19",
+          "cardmarket_price": "0.15",
           "tcgplayer_price": "0.11",
           "ebay_price": "1.99",
           "amazon_price": "49.99",
@@ -25305,7 +25305,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.02",
-          "tcgplayer_price": "0.39",
+          "tcgplayer_price": "0.41",
           "ebay_price": "2.10",
           "amazon_price": "0.70",
           "coolstuffinc_price": "0.25"
@@ -25374,8 +25374,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.43",
-          "tcgplayer_price": "0.38",
+          "cardmarket_price": "0.42",
+          "tcgplayer_price": "0.35",
           "ebay_price": "18.65",
           "amazon_price": "32.95",
           "coolstuffinc_price": "13.99"
@@ -25431,8 +25431,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
-          "tcgplayer_price": "0.23",
+          "cardmarket_price": "0.16",
+          "tcgplayer_price": "0.22",
           "ebay_price": "13.49",
           "amazon_price": "6.45",
           "coolstuffinc_price": "0.99"
@@ -25533,7 +25533,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "3.05",
+          "cardmarket_price": "1.50",
           "tcgplayer_price": "5.43",
           "ebay_price": "7.50",
           "amazon_price": "69.99",
@@ -25574,8 +25574,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.08",
+          "cardmarket_price": "0.11",
+          "tcgplayer_price": "0.13",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -25631,8 +25631,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.20",
-          "tcgplayer_price": "0.17",
+          "cardmarket_price": "0.23",
+          "tcgplayer_price": "0.15",
           "ebay_price": "1.89",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.49"
@@ -25702,8 +25702,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.04",
-          "tcgplayer_price": "0.17",
+          "cardmarket_price": "0.02",
+          "tcgplayer_price": "0.15",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -25792,8 +25792,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.14",
+          "cardmarket_price": "0.18",
+          "tcgplayer_price": "0.12",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "13.99"
@@ -25849,7 +25849,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.05",
+          "cardmarket_price": "0.08",
           "tcgplayer_price": "0.11",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
@@ -25928,8 +25928,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.73",
-          "tcgplayer_price": "1.17",
+          "cardmarket_price": "1.81",
+          "tcgplayer_price": "1.16",
           "ebay_price": "6.19",
           "amazon_price": "1.00",
           "coolstuffinc_price": "7.99"
@@ -26024,8 +26024,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.19",
-          "tcgplayer_price": "0.11",
+          "cardmarket_price": "0.10",
+          "tcgplayer_price": "0.09",
           "ebay_price": "0.99",
           "amazon_price": "3.40",
           "coolstuffinc_price": "0.49"
@@ -26072,8 +26072,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.86",
-          "tcgplayer_price": "1.95",
+          "cardmarket_price": "2.95",
+          "tcgplayer_price": "2.34",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "11.99"
@@ -26127,8 +26127,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.68",
-          "tcgplayer_price": "0.92",
+          "cardmarket_price": "1.10",
+          "tcgplayer_price": "0.93",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -26181,7 +26181,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
+          "cardmarket_price": "0.18",
           "tcgplayer_price": "0.24",
           "ebay_price": "1.79",
           "amazon_price": "0.49",
@@ -26234,7 +26234,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.15",
+          "cardmarket_price": "1.00",
           "tcgplayer_price": "1.45",
           "ebay_price": "1.95",
           "amazon_price": "0.20",
@@ -26299,7 +26299,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.21",
-          "tcgplayer_price": "0.16",
+          "tcgplayer_price": "0.21",
           "ebay_price": "450.00",
           "amazon_price": "0.57",
           "coolstuffinc_price": "0.99"
@@ -26426,8 +26426,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
-          "tcgplayer_price": "0.10",
+          "cardmarket_price": "0.08",
+          "tcgplayer_price": "0.09",
           "ebay_price": "0.99",
           "amazon_price": "0.49",
           "coolstuffinc_price": "0.25"
@@ -26494,7 +26494,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.19",
+          "cardmarket_price": "0.18",
           "tcgplayer_price": "0.20",
           "ebay_price": "1.49",
           "amazon_price": "1.04",
@@ -26542,8 +26542,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.21",
-          "tcgplayer_price": "0.27",
+          "cardmarket_price": "0.20",
+          "tcgplayer_price": "0.26",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -26590,8 +26590,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "21.32",
-          "tcgplayer_price": "29.43",
+          "cardmarket_price": "19.55",
+          "tcgplayer_price": "27.90",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -26690,7 +26690,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.02",
-          "tcgplayer_price": "0.31",
+          "tcgplayer_price": "0.32",
           "ebay_price": "3.95",
           "amazon_price": "1.47",
           "coolstuffinc_price": "0.25"
@@ -27206,7 +27206,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.10",
-          "tcgplayer_price": "2.70",
+          "tcgplayer_price": "2.96",
           "ebay_price": "3.65",
           "amazon_price": "8.95",
           "coolstuffinc_price": "3.99"
@@ -27255,8 +27255,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.08",
-          "tcgplayer_price": "0.07",
+          "cardmarket_price": "0.07",
+          "tcgplayer_price": "0.06",
           "ebay_price": "0.99",
           "amazon_price": "1.99",
           "coolstuffinc_price": "0.25"
@@ -27318,7 +27318,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
+          "cardmarket_price": "0.21",
           "tcgplayer_price": "0.24",
           "ebay_price": "9.00",
           "amazon_price": "19.99",
@@ -27371,8 +27371,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.63",
-          "tcgplayer_price": "0.25",
+          "cardmarket_price": "0.71",
+          "tcgplayer_price": "0.24",
           "ebay_price": "1.79",
           "amazon_price": "0.74",
           "coolstuffinc_price": "3.99"
@@ -27476,8 +27476,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "4.25",
-          "tcgplayer_price": "11.06",
+          "cardmarket_price": "5.69",
+          "tcgplayer_price": "11.76",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -27532,8 +27532,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "4.33",
-          "tcgplayer_price": "9.95",
+          "cardmarket_price": "6.60",
+          "tcgplayer_price": "9.30",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -27609,8 +27609,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "3.99",
-          "tcgplayer_price": "9.95",
+          "cardmarket_price": "7.53",
+          "tcgplayer_price": "9.42",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -27737,8 +27737,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.39",
-          "tcgplayer_price": "0.42",
+          "cardmarket_price": "0.29",
+          "tcgplayer_price": "0.40",
           "ebay_price": "2.00",
           "amazon_price": "3.85",
           "coolstuffinc_price": "0.49"
@@ -27795,8 +27795,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.56",
-          "tcgplayer_price": "0.42",
+          "cardmarket_price": "0.57",
+          "tcgplayer_price": "0.39",
           "ebay_price": "2.99",
           "amazon_price": "3.23",
           "coolstuffinc_price": "2.99"
@@ -27851,8 +27851,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
-          "tcgplayer_price": "0.06",
+          "cardmarket_price": "0.11",
+          "tcgplayer_price": "0.08",
           "ebay_price": "0.99",
           "amazon_price": "0.75",
           "coolstuffinc_price": "0.39"
@@ -27912,8 +27912,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.22",
-          "tcgplayer_price": "0.18",
+          "cardmarket_price": "0.25",
+          "tcgplayer_price": "0.23",
           "ebay_price": "14.95",
           "amazon_price": "20.18",
           "coolstuffinc_price": "5.99"
@@ -28011,8 +28011,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.77",
-          "tcgplayer_price": "0.29",
+          "cardmarket_price": "0.63",
+          "tcgplayer_price": "0.38",
           "ebay_price": "1.99",
           "amazon_price": "3.36",
           "coolstuffinc_price": "1.49"
@@ -28117,8 +28117,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.46",
-          "tcgplayer_price": "0.46",
+          "cardmarket_price": "0.47",
+          "tcgplayer_price": "0.50",
           "ebay_price": "2.99",
           "amazon_price": "2.54",
           "coolstuffinc_price": "1.99"
@@ -28189,7 +28189,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.17",
-          "tcgplayer_price": "0.30",
+          "tcgplayer_price": "0.33",
           "ebay_price": "4.99",
           "amazon_price": "3.96",
           "coolstuffinc_price": "1.49"
@@ -28320,8 +28320,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.42",
-          "tcgplayer_price": "0.65",
+          "cardmarket_price": "1.38",
+          "tcgplayer_price": "0.62",
           "ebay_price": "3.95",
           "amazon_price": "25.01",
           "coolstuffinc_price": "3.99"
@@ -28425,7 +28425,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
+          "cardmarket_price": "0.18",
           "tcgplayer_price": "0.09",
           "ebay_price": "2.84",
           "amazon_price": "4.55",
@@ -28482,8 +28482,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.84",
-          "tcgplayer_price": "2.15",
+          "cardmarket_price": "1.80",
+          "tcgplayer_price": "2.19",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -28593,8 +28593,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.56",
-          "tcgplayer_price": "0.55",
+          "cardmarket_price": "0.48",
+          "tcgplayer_price": "0.68",
           "ebay_price": "2.75",
           "amazon_price": "14.25",
           "coolstuffinc_price": "2.99"
@@ -28655,8 +28655,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.37",
-          "tcgplayer_price": "3.73",
+          "cardmarket_price": "2.31",
+          "tcgplayer_price": "3.74",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -28709,8 +28709,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "5.66",
-          "tcgplayer_price": "5.00",
+          "cardmarket_price": "5.39",
+          "tcgplayer_price": "4.99",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -28786,8 +28786,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.24",
-          "tcgplayer_price": "0.14",
+          "cardmarket_price": "0.23",
+          "tcgplayer_price": "0.17",
           "ebay_price": "3.79",
           "amazon_price": "0.73",
           "coolstuffinc_price": "5.99"
@@ -28836,8 +28836,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "5.26",
-          "tcgplayer_price": "6.02",
+          "cardmarket_price": "4.84",
+          "tcgplayer_price": "5.37",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -28893,8 +28893,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
-          "tcgplayer_price": "0.16",
+          "cardmarket_price": "0.09",
+          "tcgplayer_price": "0.18",
           "ebay_price": "2.50",
           "amazon_price": "2.94",
           "coolstuffinc_price": "0.39"
@@ -28970,8 +28970,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
-          "tcgplayer_price": "0.10",
+          "cardmarket_price": "0.22",
+          "tcgplayer_price": "0.15",
           "ebay_price": "1.99",
           "amazon_price": "17.99",
           "coolstuffinc_price": "1.99"
@@ -29044,8 +29044,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.82",
-          "tcgplayer_price": "0.55",
+          "cardmarket_price": "1.19",
+          "tcgplayer_price": "0.56",
           "ebay_price": "17.99",
           "amazon_price": "2.38",
           "coolstuffinc_price": "1.99"
@@ -29101,7 +29101,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.24",
+          "cardmarket_price": "0.16",
           "tcgplayer_price": "0.19",
           "ebay_price": "0.99",
           "amazon_price": "2.94",
@@ -29150,8 +29150,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.88",
-          "tcgplayer_price": "2.75",
+          "cardmarket_price": "0.79",
+          "tcgplayer_price": "2.49",
           "ebay_price": "3.25",
           "amazon_price": "2.95",
           "coolstuffinc_price": "0.99"
@@ -29207,7 +29207,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.24",
+          "cardmarket_price": "0.25",
           "tcgplayer_price": "0.16",
           "ebay_price": "0.99",
           "amazon_price": "2.94",
@@ -29319,7 +29319,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.39",
+          "cardmarket_price": "0.46",
           "tcgplayer_price": "0.21",
           "ebay_price": "5.99",
           "amazon_price": "2.94",
@@ -29376,8 +29376,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.27",
-          "tcgplayer_price": "0.19",
+          "cardmarket_price": "0.26",
+          "tcgplayer_price": "0.18",
           "ebay_price": "0.99",
           "amazon_price": "0.40",
           "coolstuffinc_price": "0.49"
@@ -29444,8 +29444,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.12",
-          "tcgplayer_price": "0.77",
+          "cardmarket_price": "1.02",
+          "tcgplayer_price": "0.78",
           "ebay_price": "1.18",
           "amazon_price": "1.03",
           "coolstuffinc_price": "0.39"
@@ -29527,8 +29527,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.43",
-          "tcgplayer_price": "0.66",
+          "cardmarket_price": "0.39",
+          "tcgplayer_price": "0.63",
           "ebay_price": "4.25",
           "amazon_price": "0.39",
           "coolstuffinc_price": "0.49"
@@ -29583,8 +29583,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.17",
-          "tcgplayer_price": "0.19",
+          "cardmarket_price": "0.25",
+          "tcgplayer_price": "0.20",
           "ebay_price": "3.70",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.49"
@@ -29639,8 +29639,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.59",
-          "tcgplayer_price": "0.93",
+          "cardmarket_price": "0.41",
+          "tcgplayer_price": "0.96",
           "ebay_price": "4.00",
           "amazon_price": "2.85",
           "coolstuffinc_price": "1.99"
@@ -29818,7 +29818,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.12",
+          "cardmarket_price": "0.07",
           "tcgplayer_price": "0.08",
           "ebay_price": "2.89",
           "amazon_price": "1.68",
@@ -29876,7 +29876,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.15",
-          "tcgplayer_price": "0.08",
+          "tcgplayer_price": "0.07",
           "ebay_price": "3.99",
           "amazon_price": "1.76",
           "coolstuffinc_price": "0.99"
@@ -29938,8 +29938,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.60",
-          "tcgplayer_price": "0.51",
+          "cardmarket_price": "0.64",
+          "tcgplayer_price": "0.62",
           "ebay_price": "2.24",
           "amazon_price": "7.99",
           "coolstuffinc_price": "0.49"
@@ -29999,8 +29999,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.63",
-          "tcgplayer_price": "0.34",
+          "cardmarket_price": "0.30",
+          "tcgplayer_price": "0.35",
           "ebay_price": "0.99",
           "amazon_price": "1.49",
           "coolstuffinc_price": "0.25"
@@ -30065,8 +30065,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.81",
-          "tcgplayer_price": "1.01",
+          "cardmarket_price": "1.26",
+          "tcgplayer_price": "0.90",
           "ebay_price": "2.95",
           "amazon_price": "0.25",
           "coolstuffinc_price": "4.99"
@@ -30129,8 +30129,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.05",
-          "tcgplayer_price": "1.61",
+          "cardmarket_price": "1.99",
+          "tcgplayer_price": "1.63",
           "ebay_price": "54.99",
           "amazon_price": "47.99",
           "coolstuffinc_price": "49.99"
@@ -30190,8 +30190,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.40",
-          "tcgplayer_price": "0.23",
+          "cardmarket_price": "0.45",
+          "tcgplayer_price": "0.26",
           "ebay_price": "6.59",
           "amazon_price": "22.99",
           "coolstuffinc_price": "2.99"
@@ -30254,7 +30254,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.09",
+          "tcgplayer_price": "0.07",
           "ebay_price": "1.99",
           "amazon_price": "0.40",
           "coolstuffinc_price": "1.99"
@@ -30303,8 +30303,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.16",
-          "tcgplayer_price": "0.78",
+          "cardmarket_price": "2.23",
+          "tcgplayer_price": "0.69",
           "ebay_price": "1.78",
           "amazon_price": "2.75",
           "coolstuffinc_price": "0.49"
@@ -30360,7 +30360,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.21",
+          "cardmarket_price": "0.14",
           "tcgplayer_price": "0.17",
           "ebay_price": "1.99",
           "amazon_price": "0.40",
@@ -30420,8 +30420,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.06",
-          "tcgplayer_price": "0.17",
+          "cardmarket_price": "0.02",
+          "tcgplayer_price": "0.20",
           "ebay_price": "1.18",
           "amazon_price": "0.99",
           "coolstuffinc_price": "1.99"
@@ -30492,7 +30492,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.10",
-          "tcgplayer_price": "2.90",
+          "tcgplayer_price": "3.38",
           "ebay_price": "17.95",
           "amazon_price": "0.25",
           "coolstuffinc_price": "5.99"
@@ -30552,7 +30552,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.09",
+          "cardmarket_price": "1.73",
           "tcgplayer_price": "0.41",
           "ebay_price": "1.39",
           "amazon_price": "7.25",
@@ -30641,8 +30641,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.19",
-          "tcgplayer_price": "0.17",
+          "cardmarket_price": "0.14",
+          "tcgplayer_price": "0.15",
           "ebay_price": "1.93",
           "amazon_price": "0.64",
           "coolstuffinc_price": "0.79"
@@ -30689,7 +30689,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.17",
+          "cardmarket_price": "0.13",
           "tcgplayer_price": "0.23",
           "ebay_price": "0.99",
           "amazon_price": "54.99",
@@ -30754,8 +30754,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
-          "tcgplayer_price": "0.09",
+          "cardmarket_price": "0.14",
+          "tcgplayer_price": "0.11",
           "ebay_price": "1.58",
           "amazon_price": "2.24",
           "coolstuffinc_price": "1.49"
@@ -30811,8 +30811,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "3.41",
-          "tcgplayer_price": "3.05",
+          "cardmarket_price": "3.95",
+          "tcgplayer_price": "3.00",
           "ebay_price": "15.95",
           "amazon_price": "0.00",
           "coolstuffinc_price": "34.99"
@@ -30859,8 +30859,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.61",
-          "tcgplayer_price": "0.71",
+          "cardmarket_price": "0.63",
+          "tcgplayer_price": "0.80",
           "ebay_price": "6.95",
           "amazon_price": "2.54",
           "coolstuffinc_price": "1.99"
@@ -30949,7 +30949,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.32",
+          "cardmarket_price": "0.29",
           "tcgplayer_price": "0.43",
           "ebay_price": "2.25",
           "amazon_price": "0.94",
@@ -31000,8 +31000,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.66",
-          "tcgplayer_price": "1.13",
+          "cardmarket_price": "1.80",
+          "tcgplayer_price": "1.19",
           "ebay_price": "2.69",
           "amazon_price": "3.10",
           "coolstuffinc_price": "1.99"
@@ -31184,7 +31184,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.20",
           "tcgplayer_price": "0.19",
           "ebay_price": "1.73",
           "amazon_price": "2.54",
@@ -31282,7 +31282,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.09",
+          "tcgplayer_price": "0.08",
           "ebay_price": "1.43",
           "amazon_price": "0.79",
           "coolstuffinc_price": "0.39"
@@ -31339,8 +31339,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.77",
-          "tcgplayer_price": "1.08",
+          "cardmarket_price": "1.67",
+          "tcgplayer_price": "1.14",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "9.99"
@@ -31392,7 +31392,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.84",
+          "cardmarket_price": "0.80",
           "tcgplayer_price": "0.57",
           "ebay_price": "1.99",
           "amazon_price": "0.86",
@@ -31479,8 +31479,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.47",
-          "tcgplayer_price": "1.73",
+          "cardmarket_price": "1.72",
+          "tcgplayer_price": "1.74",
           "ebay_price": "4.49",
           "amazon_price": "24.03",
           "coolstuffinc_price": "1.99"
@@ -31535,8 +31535,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.58",
-          "tcgplayer_price": "0.77",
+          "cardmarket_price": "0.85",
+          "tcgplayer_price": "0.82",
           "ebay_price": "3.99",
           "amazon_price": "0.76",
           "coolstuffinc_price": "1.49"
@@ -31583,8 +31583,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.48",
-          "tcgplayer_price": "0.35",
+          "cardmarket_price": "0.40",
+          "tcgplayer_price": "0.34",
           "ebay_price": "0.99",
           "amazon_price": "0.50",
           "coolstuffinc_price": "0.39"
@@ -31651,8 +31651,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "10.00",
-          "tcgplayer_price": "8.51",
+          "cardmarket_price": "10.41",
+          "tcgplayer_price": "8.70",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -31700,8 +31700,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.25",
-          "tcgplayer_price": "0.74",
+          "cardmarket_price": "0.22",
+          "tcgplayer_price": "0.75",
           "ebay_price": "0.99",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.25"
@@ -31776,7 +31776,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
+          "cardmarket_price": "0.10",
           "tcgplayer_price": "0.09",
           "ebay_price": "1.49",
           "amazon_price": "1.77",
@@ -31890,8 +31890,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.15",
-          "tcgplayer_price": "0.26",
+          "cardmarket_price": "0.22",
+          "tcgplayer_price": "0.25",
           "ebay_price": "2.25",
           "amazon_price": "5.94",
           "coolstuffinc_price": "1.99"
@@ -32004,8 +32004,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.28",
-          "tcgplayer_price": "0.53",
+          "cardmarket_price": "0.29",
+          "tcgplayer_price": "0.52",
           "ebay_price": "12.95",
           "amazon_price": "1.94",
           "coolstuffinc_price": "0.25"
@@ -32271,7 +32271,7 @@
       "card_prices": [
         {
           "cardmarket_price": "1.49",
-          "tcgplayer_price": "1.06",
+          "tcgplayer_price": "1.17",
           "ebay_price": "39.99",
           "amazon_price": "1.74",
           "coolstuffinc_price": "39.99"
@@ -32324,7 +32324,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.18",
+          "cardmarket_price": "0.14",
           "tcgplayer_price": "0.19",
           "ebay_price": "5.00",
           "amazon_price": "0.98",
@@ -32517,7 +32517,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.15",
-          "tcgplayer_price": "0.11",
+          "tcgplayer_price": "0.10",
           "ebay_price": "5.00",
           "amazon_price": "0.49",
           "coolstuffinc_price": "0.39"
@@ -32661,8 +32661,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
-          "tcgplayer_price": "0.13",
+          "cardmarket_price": "0.08",
+          "tcgplayer_price": "0.15",
           "ebay_price": "5.74",
           "amazon_price": "2.49",
           "coolstuffinc_price": "0.25"
@@ -32751,7 +32751,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.16",
-          "tcgplayer_price": "0.33",
+          "tcgplayer_price": "0.35",
           "ebay_price": "3.25",
           "amazon_price": "4.69",
           "coolstuffinc_price": "0.49"
@@ -32843,8 +32843,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.29",
-          "tcgplayer_price": "0.21",
+          "cardmarket_price": "0.30",
+          "tcgplayer_price": "0.20",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "79.99"
@@ -32935,7 +32935,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.10",
+          "cardmarket_price": "0.09",
           "tcgplayer_price": "0.10",
           "ebay_price": "19.99",
           "amazon_price": "87.00",
@@ -32997,7 +32997,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "10.98",
+          "cardmarket_price": "11.20",
           "tcgplayer_price": "11.22",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
@@ -33119,7 +33119,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.27",
+          "cardmarket_price": "0.25",
           "tcgplayer_price": "0.50",
           "ebay_price": "2.00",
           "amazon_price": "0.99",
@@ -33181,7 +33181,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.73",
+          "cardmarket_price": "0.65",
           "tcgplayer_price": "0.76",
           "ebay_price": "1.75",
           "amazon_price": "0.59",
@@ -33343,8 +33343,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "5.57",
-          "tcgplayer_price": "5.16",
+          "cardmarket_price": "4.99",
+          "tcgplayer_price": "4.95",
           "ebay_price": "5.90",
           "amazon_price": "3.84",
           "coolstuffinc_price": "2.99"
@@ -33393,8 +33393,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.19",
-          "tcgplayer_price": "0.85",
+          "cardmarket_price": "1.21",
+          "tcgplayer_price": "0.86",
           "ebay_price": "2.07",
           "amazon_price": "0.50",
           "coolstuffinc_price": "1.99"
@@ -33475,8 +33475,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.56",
-          "tcgplayer_price": "0.74",
+          "cardmarket_price": "0.34",
+          "tcgplayer_price": "0.71",
           "ebay_price": "29.99",
           "amazon_price": "6.08",
           "coolstuffinc_price": "3.99"
@@ -33599,7 +33599,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.13",
           "tcgplayer_price": "0.14",
           "ebay_price": "1.74",
           "amazon_price": "2.66",
@@ -33704,8 +33704,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.33",
-          "tcgplayer_price": "0.22",
+          "cardmarket_price": "0.24",
+          "tcgplayer_price": "0.20",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "23.99"
@@ -33764,7 +33764,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.17",
-          "tcgplayer_price": "0.17",
+          "tcgplayer_price": "0.18",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.25"
@@ -33826,7 +33826,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
+          "cardmarket_price": "0.11",
           "tcgplayer_price": "0.19",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
@@ -33881,8 +33881,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.12",
-          "tcgplayer_price": "0.07",
+          "cardmarket_price": "0.09",
+          "tcgplayer_price": "0.06",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -34296,7 +34296,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
+          "cardmarket_price": "0.11",
           "tcgplayer_price": "0.15",
           "ebay_price": "0.99",
           "amazon_price": "0.99",
@@ -34351,7 +34351,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
+          "cardmarket_price": "0.13",
           "tcgplayer_price": "0.05",
           "ebay_price": "0.99",
           "amazon_price": "0.49",
@@ -34433,8 +34433,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.20",
+          "cardmarket_price": "0.09",
+          "tcgplayer_price": "0.19",
           "ebay_price": "1.40",
           "amazon_price": "1.00",
           "coolstuffinc_price": "0.25"
@@ -34509,7 +34509,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
+          "cardmarket_price": "0.10",
           "tcgplayer_price": "0.07",
           "ebay_price": "1.45",
           "amazon_price": "1.31",
@@ -34565,7 +34565,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.06",
-          "tcgplayer_price": "0.10",
+          "tcgplayer_price": "0.11",
           "ebay_price": "0.99",
           "amazon_price": "0.96",
           "coolstuffinc_price": "0.25"
@@ -34605,8 +34605,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.57",
-          "tcgplayer_price": "0.61",
+          "cardmarket_price": "0.56",
+          "tcgplayer_price": "0.62",
           "ebay_price": "2.15",
           "amazon_price": "1.80",
           "coolstuffinc_price": "1.99"
@@ -34645,7 +34645,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.20",
+          "cardmarket_price": "0.18",
           "tcgplayer_price": "0.29",
           "ebay_price": "1.45",
           "amazon_price": "1.04",
@@ -34748,7 +34748,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.74",
-          "tcgplayer_price": "0.73",
+          "tcgplayer_price": "0.74",
           "ebay_price": "4.99",
           "amazon_price": "3.30",
           "coolstuffinc_price": "2.99"
@@ -34803,7 +34803,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.19",
-          "tcgplayer_price": "0.10",
+          "tcgplayer_price": "0.11",
           "ebay_price": "0.99",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.49"
@@ -34843,8 +34843,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.38",
-          "tcgplayer_price": "1.11",
+          "cardmarket_price": "0.44",
+          "tcgplayer_price": "1.08",
           "ebay_price": "1.95",
           "amazon_price": "1.49",
           "coolstuffinc_price": "0.79"
@@ -34892,7 +34892,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.18",
-          "tcgplayer_price": "0.13",
+          "tcgplayer_price": "0.11",
           "ebay_price": "0.99",
           "amazon_price": "1.37",
           "coolstuffinc_price": "0.25"
@@ -34932,7 +34932,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.81",
+          "cardmarket_price": "0.82",
           "tcgplayer_price": "0.49",
           "ebay_price": "1.29",
           "amazon_price": "1.55",
@@ -34987,7 +34987,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.25",
+          "cardmarket_price": "0.30",
           "tcgplayer_price": "0.22",
           "ebay_price": "1.67",
           "amazon_price": "1.65",
@@ -35028,8 +35028,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.93",
-          "tcgplayer_price": "1.35",
+          "cardmarket_price": "2.55",
+          "tcgplayer_price": "1.41",
           "ebay_price": "4.95",
           "amazon_price": "4.09",
           "coolstuffinc_price": "1.99"
@@ -35076,7 +35076,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
+          "cardmarket_price": "0.20",
           "tcgplayer_price": "0.12",
           "ebay_price": "0.99",
           "amazon_price": "1.00",
@@ -35159,8 +35159,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.08",
-          "tcgplayer_price": "0.08",
+          "cardmarket_price": "0.09",
+          "tcgplayer_price": "0.09",
           "ebay_price": "0.99",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.39"
@@ -35279,8 +35279,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.15",
-          "tcgplayer_price": "0.16",
+          "cardmarket_price": "0.13",
+          "tcgplayer_price": "0.14",
           "ebay_price": "1.79",
           "amazon_price": "2.01",
           "coolstuffinc_price": "0.99"
@@ -35474,8 +35474,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.37",
-          "tcgplayer_price": "0.72",
+          "cardmarket_price": "1.38",
+          "tcgplayer_price": "0.78",
           "ebay_price": "4.95",
           "amazon_price": "15.99",
           "coolstuffinc_price": "15.99"
@@ -35573,7 +35573,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.15",
+          "cardmarket_price": "0.16",
           "tcgplayer_price": "0.35",
           "ebay_price": "2.99",
           "amazon_price": "2.49",
@@ -35691,8 +35691,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.06",
-          "tcgplayer_price": "0.14",
+          "cardmarket_price": "0.05",
+          "tcgplayer_price": "0.12",
           "ebay_price": "3.90",
           "amazon_price": "3.96",
           "coolstuffinc_price": "1.99"
@@ -35739,8 +35739,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "7.86",
-          "tcgplayer_price": "5.49",
+          "cardmarket_price": "8.07",
+          "tcgplayer_price": "5.95",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -36036,7 +36036,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.06",
+          "cardmarket_price": "0.08",
           "tcgplayer_price": "0.14",
           "ebay_price": "2.99",
           "amazon_price": "0.25",
@@ -36092,7 +36092,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
+          "cardmarket_price": "0.16",
           "tcgplayer_price": "0.14",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
@@ -36148,8 +36148,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.89",
-          "tcgplayer_price": "2.34",
+          "cardmarket_price": "2.25",
+          "tcgplayer_price": "2.05",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.25"
@@ -36211,7 +36211,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.06",
+          "cardmarket_price": "0.11",
           "tcgplayer_price": "0.05",
           "ebay_price": "2.00",
           "amazon_price": "0.00",
@@ -36295,8 +36295,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.26",
-          "tcgplayer_price": "0.42",
+          "cardmarket_price": "0.36",
+          "tcgplayer_price": "0.41",
           "ebay_price": "0.99",
           "amazon_price": "0.75",
           "coolstuffinc_price": "1.49"
@@ -36381,8 +36381,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.49",
-          "tcgplayer_price": "1.14",
+          "cardmarket_price": "0.50",
+          "tcgplayer_price": "1.06",
           "ebay_price": "10.99",
           "amazon_price": "1.95",
           "coolstuffinc_price": "1.99"
@@ -36484,8 +36484,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.20",
-          "tcgplayer_price": "0.24",
+          "cardmarket_price": "0.25",
+          "tcgplayer_price": "0.25",
           "ebay_price": "3.95",
           "amazon_price": "6.98",
           "coolstuffinc_price": "4.99"
@@ -36531,7 +36531,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.85",
+          "cardmarket_price": "0.78",
           "tcgplayer_price": "1.13",
           "ebay_price": "2.69",
           "amazon_price": "1.65",
@@ -36573,7 +36573,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.23",
-          "tcgplayer_price": "0.30",
+          "tcgplayer_price": "0.32",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -36641,8 +36641,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.11",
-          "tcgplayer_price": "1.10",
+          "cardmarket_price": "1.00",
+          "tcgplayer_price": "0.81",
           "ebay_price": "24.99",
           "amazon_price": "49.49",
           "coolstuffinc_price": "4.99"
@@ -36739,8 +36739,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
-          "tcgplayer_price": "0.09",
+          "cardmarket_price": "0.02",
+          "tcgplayer_price": "0.08",
           "ebay_price": "1.69",
           "amazon_price": "0.99",
           "coolstuffinc_price": "0.79"
@@ -36875,7 +36875,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.11",
-          "tcgplayer_price": "0.15",
+          "tcgplayer_price": "0.12",
           "ebay_price": "1.75",
           "amazon_price": "5.57",
           "coolstuffinc_price": "0.99"
@@ -36954,8 +36954,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.18",
-          "tcgplayer_price": "0.27",
+          "cardmarket_price": "0.20",
+          "tcgplayer_price": "0.26",
           "ebay_price": "1.95",
           "amazon_price": "34.95",
           "coolstuffinc_price": "1.49"
@@ -37078,7 +37078,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.31",
+          "cardmarket_price": "0.19",
           "tcgplayer_price": "0.33",
           "ebay_price": "1.60",
           "amazon_price": "0.82",
@@ -37276,7 +37276,7 @@
       "card_prices": [
         {
           "cardmarket_price": "5.37",
-          "tcgplayer_price": "4.72",
+          "tcgplayer_price": "4.84",
           "ebay_price": "8.95",
           "amazon_price": "12.98",
           "coolstuffinc_price": "7.99"
@@ -37364,7 +37364,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.02",
-          "tcgplayer_price": "0.17",
+          "tcgplayer_price": "0.16",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -37435,7 +37435,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.18",
-          "tcgplayer_price": "0.14",
+          "tcgplayer_price": "0.21",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -37489,7 +37489,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.71",
-          "tcgplayer_price": "0.70",
+          "tcgplayer_price": "0.58",
           "ebay_price": "3.99",
           "amazon_price": "1.46",
           "coolstuffinc_price": "0.99"
@@ -37554,8 +37554,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.06",
-          "tcgplayer_price": "0.08",
+          "cardmarket_price": "0.08",
+          "tcgplayer_price": "0.09",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -37613,8 +37613,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
-          "tcgplayer_price": "0.14",
+          "cardmarket_price": "0.11",
+          "tcgplayer_price": "0.15",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -37725,8 +37725,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
-          "tcgplayer_price": "0.06",
+          "cardmarket_price": "0.05",
+          "tcgplayer_price": "0.09",
           "ebay_price": "8.00",
           "amazon_price": "2.71",
           "coolstuffinc_price": "0.25"
@@ -37774,7 +37774,7 @@
       "card_prices": [
         {
           "cardmarket_price": "1.86",
-          "tcgplayer_price": "2.67",
+          "tcgplayer_price": "2.55",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -37884,7 +37884,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.05",
-          "tcgplayer_price": "0.27",
+          "tcgplayer_price": "0.26",
           "ebay_price": "1.45",
           "amazon_price": "0.78",
           "coolstuffinc_price": "0.39"
@@ -37948,7 +37948,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.05",
-          "tcgplayer_price": "0.13",
+          "tcgplayer_price": "0.12",
           "ebay_price": "3.99",
           "amazon_price": "3.49",
           "coolstuffinc_price": "0.39"
@@ -38010,8 +38010,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "3.65",
-          "tcgplayer_price": "3.17",
+          "cardmarket_price": "3.40",
+          "tcgplayer_price": "3.44",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -38155,8 +38155,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
-          "tcgplayer_price": "0.07",
+          "cardmarket_price": "0.12",
+          "tcgplayer_price": "0.08",
           "ebay_price": "10.79",
           "amazon_price": "1.58",
           "coolstuffinc_price": "0.99"
@@ -38276,7 +38276,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.15",
+          "cardmarket_price": "0.12",
           "tcgplayer_price": "0.16",
           "ebay_price": "0.99",
           "amazon_price": "0.29",
@@ -38338,8 +38338,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
-          "tcgplayer_price": "0.10",
+          "cardmarket_price": "0.11",
+          "tcgplayer_price": "0.14",
           "ebay_price": "2.48",
           "amazon_price": "2.49",
           "coolstuffinc_price": "0.99"
@@ -38504,7 +38504,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.17",
+          "cardmarket_price": "0.20",
           "tcgplayer_price": "0.17",
           "ebay_price": "1.91",
           "amazon_price": "1.26",
@@ -38561,8 +38561,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.33",
-          "tcgplayer_price": "1.12",
+          "cardmarket_price": "1.53",
+          "tcgplayer_price": "1.29",
           "ebay_price": "1.99",
           "amazon_price": "5.50",
           "coolstuffinc_price": "2.99"
@@ -38666,7 +38666,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.08",
+          "cardmarket_price": "0.10",
           "tcgplayer_price": "0.18",
           "ebay_price": "39.99",
           "amazon_price": "0.99",
@@ -38711,7 +38711,7 @@
       "card_prices": [
         {
           "cardmarket_price": "4.99",
-          "tcgplayer_price": "12.72",
+          "tcgplayer_price": "12.84",
           "ebay_price": "8.49",
           "amazon_price": "9.94",
           "coolstuffinc_price": "9.99"
@@ -38909,7 +38909,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.20",
-          "tcgplayer_price": "0.26",
+          "tcgplayer_price": "0.28",
           "ebay_price": "26.99",
           "amazon_price": "29.98",
           "coolstuffinc_price": "2.99"
@@ -38987,8 +38987,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.62",
-          "tcgplayer_price": "0.71",
+          "cardmarket_price": "0.65",
+          "tcgplayer_price": "0.68",
           "ebay_price": "2.95",
           "amazon_price": "3.03",
           "coolstuffinc_price": "0.99"
@@ -39053,8 +39053,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.72",
-          "tcgplayer_price": "1.69",
+          "cardmarket_price": "0.85",
+          "tcgplayer_price": "1.82",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.99"
@@ -39133,8 +39133,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.49",
-          "tcgplayer_price": "0.47",
+          "cardmarket_price": "0.41",
+          "tcgplayer_price": "0.44",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -39268,7 +39268,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.58",
+          "cardmarket_price": "0.54",
           "tcgplayer_price": "1.05",
           "ebay_price": "1.70",
           "amazon_price": "19.34",
@@ -39331,7 +39331,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.24",
+          "cardmarket_price": "0.27",
           "tcgplayer_price": "0.10",
           "ebay_price": "2.99",
           "amazon_price": "19.99",
@@ -39585,8 +39585,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.53",
-          "tcgplayer_price": "0.73",
+          "cardmarket_price": "0.36",
+          "tcgplayer_price": "0.81",
           "ebay_price": "3.99",
           "amazon_price": "7.39",
           "coolstuffinc_price": "3.99"
@@ -39633,8 +39633,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "5.64",
-          "tcgplayer_price": "8.97",
+          "cardmarket_price": "4.82",
+          "tcgplayer_price": "9.52",
           "ebay_price": "5.95",
           "amazon_price": "5.49",
           "coolstuffinc_price": "2.99"
@@ -39779,8 +39779,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.23",
-          "tcgplayer_price": "0.30",
+          "cardmarket_price": "0.19",
+          "tcgplayer_price": "0.32",
           "ebay_price": "2.49",
           "amazon_price": "3.00",
           "coolstuffinc_price": "0.79"
@@ -39939,8 +39939,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.26",
-          "tcgplayer_price": "0.26",
+          "cardmarket_price": "0.29",
+          "tcgplayer_price": "0.24",
           "ebay_price": "20.50",
           "amazon_price": "0.79",
           "coolstuffinc_price": "0.99"
@@ -39986,8 +39986,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "11.24",
-          "tcgplayer_price": "12.38",
+          "cardmarket_price": "10.98",
+          "tcgplayer_price": "10.94",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -40086,8 +40086,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.21",
-          "tcgplayer_price": "0.40",
+          "cardmarket_price": "0.15",
+          "tcgplayer_price": "0.41",
           "ebay_price": "0.99",
           "amazon_price": "1.40",
           "coolstuffinc_price": "0.25"
@@ -40147,8 +40147,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "4.34",
-          "tcgplayer_price": "4.10",
+          "cardmarket_price": "3.64",
+          "tcgplayer_price": "4.09",
           "ebay_price": "18.19",
           "amazon_price": "7.45",
           "coolstuffinc_price": "9.99"
@@ -40231,8 +40231,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.29",
-          "tcgplayer_price": "0.59",
+          "cardmarket_price": "0.21",
+          "tcgplayer_price": "0.60",
           "ebay_price": "0.99",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.49"
@@ -40321,8 +40321,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
-          "tcgplayer_price": "0.18",
+          "cardmarket_price": "0.13",
+          "tcgplayer_price": "0.16",
           "ebay_price": "1.95",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.25"
@@ -40377,8 +40377,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "6.80",
-          "tcgplayer_price": "7.21",
+          "cardmarket_price": "6.47",
+          "tcgplayer_price": "7.61",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -40429,7 +40429,7 @@
       "card_prices": [
         {
           "cardmarket_price": "1.00",
-          "tcgplayer_price": "1.71",
+          "tcgplayer_price": "1.70",
           "ebay_price": "9.19",
           "amazon_price": "17.99",
           "coolstuffinc_price": "3.99"
@@ -40484,7 +40484,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
+          "cardmarket_price": "0.09",
           "tcgplayer_price": "0.11",
           "ebay_price": "0.99",
           "amazon_price": "0.25",
@@ -40539,8 +40539,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.18",
-          "tcgplayer_price": "0.41",
+          "cardmarket_price": "0.23",
+          "tcgplayer_price": "0.39",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.99"
@@ -40603,7 +40603,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.06",
-          "tcgplayer_price": "0.05",
+          "tcgplayer_price": "0.06",
           "ebay_price": "0.99",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.49"
@@ -40730,7 +40730,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.02",
-          "tcgplayer_price": "1.43",
+          "tcgplayer_price": "1.32",
           "ebay_price": "2.29",
           "amazon_price": "54.99",
           "coolstuffinc_price": "1.99"
@@ -40793,7 +40793,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.10",
-          "tcgplayer_price": "0.23",
+          "tcgplayer_price": "0.18",
           "ebay_price": "5.95",
           "amazon_price": "0.59",
           "coolstuffinc_price": "0.49"
@@ -40840,8 +40840,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.28",
-          "tcgplayer_price": "0.24",
+          "cardmarket_price": "0.27",
+          "tcgplayer_price": "0.27",
           "ebay_price": "0.99",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.39"
@@ -40914,7 +40914,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "3.58",
+          "cardmarket_price": "3.02",
           "tcgplayer_price": "0.19",
           "ebay_price": "16.99",
           "amazon_price": "24.66",
@@ -40978,7 +40978,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.13",
+          "cardmarket_price": "0.12",
           "tcgplayer_price": "0.13",
           "ebay_price": "1.82",
           "amazon_price": "0.75",
@@ -41064,7 +41064,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.04",
+          "cardmarket_price": "0.07",
           "tcgplayer_price": "0.07",
           "ebay_price": "11.52",
           "amazon_price": "10.18",
@@ -41254,8 +41254,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.45",
-          "tcgplayer_price": "0.94",
+          "cardmarket_price": "1.38",
+          "tcgplayer_price": "1.99",
           "ebay_price": "4.99",
           "amazon_price": "7.60",
           "coolstuffinc_price": "3.99"
@@ -41359,8 +41359,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.64",
-          "tcgplayer_price": "0.77",
+          "cardmarket_price": "1.57",
+          "tcgplayer_price": "0.81",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "17.99"
@@ -41419,7 +41419,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.04",
+          "cardmarket_price": "0.05",
           "tcgplayer_price": "0.14",
           "ebay_price": "5.95",
           "amazon_price": "1.00",
@@ -41531,8 +41531,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.11",
-          "tcgplayer_price": "0.14",
+          "cardmarket_price": "0.15",
+          "tcgplayer_price": "0.15",
           "ebay_price": "2.95",
           "amazon_price": "5.00",
           "coolstuffinc_price": "1.99"
@@ -41605,8 +41605,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.87",
-          "tcgplayer_price": "2.36",
+          "cardmarket_price": "1.92",
+          "tcgplayer_price": "2.15",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -41660,7 +41660,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.20",
+          "cardmarket_price": "0.18",
           "tcgplayer_price": "0.14",
           "ebay_price": "4.95",
           "amazon_price": "10.12",
@@ -41731,8 +41731,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.09",
+          "cardmarket_price": "0.15",
+          "tcgplayer_price": "0.10",
           "ebay_price": "4.98",
           "amazon_price": "4.14",
           "coolstuffinc_price": "1.99"
@@ -41794,8 +41794,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.50",
-          "tcgplayer_price": "0.30",
+          "cardmarket_price": "0.69",
+          "tcgplayer_price": "0.27",
           "ebay_price": "12.99",
           "amazon_price": "18.68",
           "coolstuffinc_price": "3.99"
@@ -41857,8 +41857,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
-          "tcgplayer_price": "0.11",
+          "cardmarket_price": "0.17",
+          "tcgplayer_price": "0.12",
           "ebay_price": "1.50",
           "amazon_price": "3.78",
           "coolstuffinc_price": "1.49"
@@ -42003,7 +42003,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.09",
-          "tcgplayer_price": "0.16",
+          "tcgplayer_price": "0.13",
           "ebay_price": "15.00",
           "amazon_price": "1.81",
           "coolstuffinc_price": "1.49"
@@ -42062,7 +42062,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
+          "cardmarket_price": "0.08",
           "tcgplayer_price": "0.07",
           "ebay_price": "2.44",
           "amazon_price": "2.56",
@@ -42116,8 +42116,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "6.42",
-          "tcgplayer_price": "4.43",
+          "cardmarket_price": "6.00",
+          "tcgplayer_price": "4.49",
           "ebay_price": "7.98",
           "amazon_price": "10.98",
           "coolstuffinc_price": "4.99"
@@ -42176,7 +42176,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.06",
+          "cardmarket_price": "0.07",
           "tcgplayer_price": "0.09",
           "ebay_price": "2.19",
           "amazon_price": "2.01",
@@ -42235,8 +42235,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "6.51",
-          "tcgplayer_price": "5.31",
+          "cardmarket_price": "6.47",
+          "tcgplayer_price": "5.22",
           "ebay_price": "13.99",
           "amazon_price": "19.75",
           "coolstuffinc_price": "9.99"
@@ -42288,8 +42288,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "3.09",
-          "tcgplayer_price": "1.03",
+          "cardmarket_price": "2.71",
+          "tcgplayer_price": "1.01",
           "ebay_price": "2.95",
           "amazon_price": "1.49",
           "coolstuffinc_price": "0.99"
@@ -42328,8 +42328,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.38",
-          "tcgplayer_price": "0.34",
+          "cardmarket_price": "0.32",
+          "tcgplayer_price": "0.37",
           "ebay_price": "4.00",
           "amazon_price": "1.66",
           "coolstuffinc_price": "0.49"
@@ -42399,7 +42399,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.32",
+          "cardmarket_price": "0.21",
           "tcgplayer_price": "0.30",
           "ebay_price": "19.95",
           "amazon_price": "5.74",
@@ -42524,8 +42524,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.08",
-          "tcgplayer_price": "0.13",
+          "cardmarket_price": "0.07",
+          "tcgplayer_price": "0.12",
           "ebay_price": "1.49",
           "amazon_price": "0.40",
           "coolstuffinc_price": "0.79"
@@ -42592,7 +42592,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.08",
           "tcgplayer_price": "0.16",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
@@ -42655,8 +42655,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.51",
-          "tcgplayer_price": "1.39",
+          "cardmarket_price": "1.58",
+          "tcgplayer_price": "1.57",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -42725,8 +42725,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.12",
+          "cardmarket_price": "0.13",
+          "tcgplayer_price": "0.07",
           "ebay_price": "1.99",
           "amazon_price": "0.42",
           "coolstuffinc_price": "0.99"
@@ -43014,7 +43014,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.11",
           "tcgplayer_price": "0.15",
           "ebay_price": "6.95",
           "amazon_price": "0.96",
@@ -43107,8 +43107,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.20",
-          "tcgplayer_price": "0.18",
+          "cardmarket_price": "0.25",
+          "tcgplayer_price": "0.17",
           "ebay_price": "15.99",
           "amazon_price": "26.99",
           "coolstuffinc_price": "15.99"
@@ -43162,8 +43162,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.99",
-          "tcgplayer_price": "0.73",
+          "cardmarket_price": "1.00",
+          "tcgplayer_price": "0.54",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -43228,8 +43228,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.19",
-          "tcgplayer_price": "0.80",
+          "cardmarket_price": "1.18",
+          "tcgplayer_price": "1.04",
           "ebay_price": "19.95",
           "amazon_price": "1.00",
           "coolstuffinc_price": "19.99"
@@ -43269,7 +43269,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.27",
+          "cardmarket_price": "0.31",
           "tcgplayer_price": "0.38",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
@@ -43302,7 +43302,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.58",
-          "tcgplayer_price": "1.93",
+          "tcgplayer_price": "3.40",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -43436,7 +43436,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.20",
+          "cardmarket_price": "0.22",
           "tcgplayer_price": "0.16",
           "ebay_price": "3.95",
           "amazon_price": "4.57",
@@ -43484,8 +43484,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "4.59",
-          "tcgplayer_price": "2.91",
+          "cardmarket_price": "4.90",
+          "tcgplayer_price": "3.05",
           "ebay_price": "0.99",
           "amazon_price": "3.99",
           "coolstuffinc_price": "5.99"
@@ -43561,8 +43561,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.28",
-          "tcgplayer_price": "0.84",
+          "cardmarket_price": "0.36",
+          "tcgplayer_price": "0.88",
           "ebay_price": "2.95",
           "amazon_price": "12.18",
           "coolstuffinc_price": "2.99"
@@ -43651,7 +43651,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.04",
-          "tcgplayer_price": "0.05",
+          "tcgplayer_price": "0.04",
           "ebay_price": "0.99",
           "amazon_price": "6.47",
           "coolstuffinc_price": "0.49"
@@ -43719,8 +43719,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.19",
-          "tcgplayer_price": "0.28",
+          "cardmarket_price": "0.17",
+          "tcgplayer_price": "0.25",
           "ebay_price": "1.10",
           "amazon_price": "1.18",
           "coolstuffinc_price": "0.49"
@@ -43847,8 +43847,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.68",
-          "tcgplayer_price": "0.58",
+          "cardmarket_price": "1.06",
+          "tcgplayer_price": "0.60",
           "ebay_price": "2.22",
           "amazon_price": "2.51",
           "coolstuffinc_price": "2.99"
@@ -43911,8 +43911,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.97",
-          "tcgplayer_price": "1.27",
+          "cardmarket_price": "1.07",
+          "tcgplayer_price": "1.35",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -43968,8 +43968,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.36",
-          "tcgplayer_price": "1.84",
+          "cardmarket_price": "1.27",
+          "tcgplayer_price": "2.43",
           "ebay_price": "6.95",
           "amazon_price": "13.99",
           "coolstuffinc_price": "3.99"
@@ -44054,8 +44054,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
-          "tcgplayer_price": "0.09",
+          "cardmarket_price": "0.12",
+          "tcgplayer_price": "0.10",
           "ebay_price": "1.99",
           "amazon_price": "1.36",
           "coolstuffinc_price": "0.39"
@@ -44174,8 +44174,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.21",
-          "tcgplayer_price": "0.19",
+          "cardmarket_price": "0.24",
+          "tcgplayer_price": "0.20",
           "ebay_price": "3.99",
           "amazon_price": "5.95",
           "coolstuffinc_price": "3.99"
@@ -44271,8 +44271,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "3.44",
-          "tcgplayer_price": "4.62",
+          "cardmarket_price": "3.52",
+          "tcgplayer_price": "4.58",
           "ebay_price": "23.99",
           "amazon_price": "7.46",
           "coolstuffinc_price": "7.99"
@@ -44382,8 +44382,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
-          "tcgplayer_price": "0.13",
+          "cardmarket_price": "0.03",
+          "tcgplayer_price": "0.12",
           "ebay_price": "7.84",
           "amazon_price": "5.37",
           "coolstuffinc_price": "2.99"
@@ -44445,8 +44445,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.19",
-          "tcgplayer_price": "0.13",
+          "cardmarket_price": "0.20",
+          "tcgplayer_price": "0.12",
           "ebay_price": "1.49",
           "amazon_price": "0.27",
           "coolstuffinc_price": "0.39"
@@ -44568,8 +44568,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.31",
-          "tcgplayer_price": "0.19",
+          "cardmarket_price": "0.33",
+          "tcgplayer_price": "0.24",
           "ebay_price": "3.99",
           "amazon_price": "63.44",
           "coolstuffinc_price": "1.99"
@@ -44631,7 +44631,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.18",
+          "cardmarket_price": "0.22",
           "tcgplayer_price": "0.21",
           "ebay_price": "2.24",
           "amazon_price": "1.19",
@@ -44755,8 +44755,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.23",
-          "tcgplayer_price": "0.36",
+          "cardmarket_price": "0.21",
+          "tcgplayer_price": "0.32",
           "ebay_price": "4.75",
           "amazon_price": "2.97",
           "coolstuffinc_price": "1.99"
@@ -44851,8 +44851,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.16",
-          "tcgplayer_price": "0.26",
+          "cardmarket_price": "0.18",
+          "tcgplayer_price": "0.21",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -44930,8 +44930,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "8.52",
-          "tcgplayer_price": "9.57",
+          "cardmarket_price": "8.05",
+          "tcgplayer_price": "9.58",
           "ebay_price": "289.95",
           "amazon_price": "8.83",
           "coolstuffinc_price": "9.99"
@@ -44961,8 +44961,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.84",
-          "tcgplayer_price": "2.01",
+          "cardmarket_price": "2.83",
+          "tcgplayer_price": "2.25",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -45099,7 +45099,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
+          "cardmarket_price": "0.07",
           "tcgplayer_price": "0.10",
           "ebay_price": "0.99",
           "amazon_price": "1.42",
@@ -45226,7 +45226,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.06",
+          "cardmarket_price": "0.07",
           "tcgplayer_price": "0.13",
           "ebay_price": "44.99",
           "amazon_price": "6.11",
@@ -45274,8 +45274,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "7.42",
-          "tcgplayer_price": "4.16",
+          "cardmarket_price": "6.85",
+          "tcgplayer_price": "3.89",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -45331,7 +45331,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.14",
-          "tcgplayer_price": "0.09",
+          "tcgplayer_price": "0.12",
           "ebay_price": "0.99",
           "amazon_price": "0.54",
           "coolstuffinc_price": "0.39"
@@ -45422,8 +45422,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.89",
-          "tcgplayer_price": "2.04",
+          "cardmarket_price": "1.75",
+          "tcgplayer_price": "1.92",
           "ebay_price": "9.99",
           "amazon_price": "59.88",
           "coolstuffinc_price": "13.99"
@@ -45532,8 +45532,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "3.90",
-          "tcgplayer_price": "2.50",
+          "cardmarket_price": "3.98",
+          "tcgplayer_price": "3.30",
           "ebay_price": "61.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "89.99"
@@ -45701,8 +45701,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.07",
-          "tcgplayer_price": "0.11",
+          "cardmarket_price": "0.10",
+          "tcgplayer_price": "0.10",
           "ebay_price": "1.75",
           "amazon_price": "1.20",
           "coolstuffinc_price": "0.49"
@@ -45762,8 +45762,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.42",
-          "tcgplayer_price": "0.29",
+          "cardmarket_price": "0.44",
+          "tcgplayer_price": "0.27",
           "ebay_price": "1.84",
           "amazon_price": "1.89",
           "coolstuffinc_price": "0.49"
@@ -45802,8 +45802,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.69",
-          "tcgplayer_price": "1.07",
+          "cardmarket_price": "0.62",
+          "tcgplayer_price": "1.02",
           "ebay_price": "3.95",
           "amazon_price": "0.49",
           "coolstuffinc_price": "0.49"
@@ -45894,8 +45894,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.04",
-          "tcgplayer_price": "0.18",
+          "cardmarket_price": "0.15",
+          "tcgplayer_price": "0.17",
           "ebay_price": "0.99",
           "amazon_price": "0.34",
           "coolstuffinc_price": "0.39"
@@ -45990,8 +45990,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.02",
-          "tcgplayer_price": "0.14",
+          "cardmarket_price": "0.11",
+          "tcgplayer_price": "0.15",
           "ebay_price": "3.49",
           "amazon_price": "0.82",
           "coolstuffinc_price": "0.25"
@@ -46132,7 +46132,7 @@
       "card_prices": [
         {
           "cardmarket_price": "1.99",
-          "tcgplayer_price": "2.20",
+          "tcgplayer_price": "2.23",
           "ebay_price": "1.75",
           "amazon_price": "0.91",
           "coolstuffinc_price": "1.99"
@@ -46202,7 +46202,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.57",
+          "cardmarket_price": "0.62",
           "tcgplayer_price": "0.61",
           "ebay_price": "2.40",
           "amazon_price": "6.78",
@@ -46306,8 +46306,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.69",
-          "tcgplayer_price": "0.71",
+          "cardmarket_price": "0.63",
+          "tcgplayer_price": "0.63",
           "ebay_price": "0.99",
           "amazon_price": "0.99",
           "coolstuffinc_price": "0.25"
@@ -46375,8 +46375,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.22",
-          "tcgplayer_price": "0.55",
+          "cardmarket_price": "0.41",
+          "tcgplayer_price": "0.47",
           "ebay_price": "1.93",
           "amazon_price": "0.39",
           "coolstuffinc_price": "0.39"
@@ -46431,8 +46431,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "4.58",
-          "tcgplayer_price": "4.01",
+          "cardmarket_price": "5.09",
+          "tcgplayer_price": "3.38",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -46487,8 +46487,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "7.56",
-          "tcgplayer_price": "3.26",
+          "cardmarket_price": "8.00",
+          "tcgplayer_price": "2.95",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "9.99"
@@ -46554,8 +46554,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.91",
-          "tcgplayer_price": "4.06",
+          "cardmarket_price": "3.36",
+          "tcgplayer_price": "3.80",
           "ebay_price": "24.88",
           "amazon_price": "0.00",
           "coolstuffinc_price": "29.99"
@@ -46617,8 +46617,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.45",
-          "tcgplayer_price": "2.45",
+          "cardmarket_price": "2.51",
+          "tcgplayer_price": "2.56",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -46681,8 +46681,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.18",
-          "tcgplayer_price": "0.12",
+          "cardmarket_price": "0.23",
+          "tcgplayer_price": "0.11",
           "ebay_price": "0.99",
           "amazon_price": "2.03",
           "coolstuffinc_price": "0.79"
@@ -46738,8 +46738,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.84",
-          "tcgplayer_price": "0.32",
+          "cardmarket_price": "0.85",
+          "tcgplayer_price": "0.29",
           "ebay_price": "2.49",
           "amazon_price": "2.42",
           "coolstuffinc_price": "1.49"
@@ -46794,8 +46794,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.21",
-          "tcgplayer_price": "0.17",
+          "cardmarket_price": "0.24",
+          "tcgplayer_price": "0.20",
           "ebay_price": "2.00",
           "amazon_price": "0.25",
           "coolstuffinc_price": "0.79"
@@ -46894,8 +46894,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.35",
-          "tcgplayer_price": "1.48",
+          "cardmarket_price": "2.62",
+          "tcgplayer_price": "1.59",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "69.99"
@@ -46985,8 +46985,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.54",
-          "tcgplayer_price": "0.80",
+          "cardmarket_price": "0.42",
+          "tcgplayer_price": "0.75",
           "ebay_price": "16.74",
           "amazon_price": "114.99",
           "coolstuffinc_price": "1.99"
@@ -47047,8 +47047,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "2.56",
-          "tcgplayer_price": "1.94",
+          "cardmarket_price": "2.59",
+          "tcgplayer_price": "2.38",
           "ebay_price": "11.95",
           "amazon_price": "0.00",
           "coolstuffinc_price": "1.99"
@@ -47122,7 +47122,7 @@
       "card_prices": [
         {
           "cardmarket_price": "0.60",
-          "tcgplayer_price": "0.33",
+          "tcgplayer_price": "0.31",
           "ebay_price": "10.95",
           "amazon_price": "6.05",
           "coolstuffinc_price": "0.00"
@@ -47173,8 +47173,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.33",
-          "tcgplayer_price": "0.84",
+          "cardmarket_price": "1.45",
+          "tcgplayer_price": "0.88",
           "ebay_price": "2.70",
           "amazon_price": "2.99",
           "coolstuffinc_price": "1.99"
@@ -47228,7 +47228,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.25",
+          "cardmarket_price": "0.33",
           "tcgplayer_price": "0.20",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
@@ -47276,8 +47276,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "7.70",
-          "tcgplayer_price": "4.27",
+          "cardmarket_price": "7.60",
+          "tcgplayer_price": "4.96",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.00"
@@ -47324,8 +47324,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.10",
-          "tcgplayer_price": "0.53",
+          "cardmarket_price": "0.91",
+          "tcgplayer_price": "0.54",
           "ebay_price": "1.95",
           "amazon_price": "0.93",
           "coolstuffinc_price": "0.79"
@@ -47374,8 +47374,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.09",
-          "tcgplayer_price": "0.15",
+          "cardmarket_price": "0.06",
+          "tcgplayer_price": "0.12",
           "ebay_price": "0.00",
           "amazon_price": "0.00",
           "coolstuffinc_price": "0.39"
@@ -47444,8 +47444,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.35",
-          "tcgplayer_price": "0.11",
+          "cardmarket_price": "0.27",
+          "tcgplayer_price": "0.10",
           "ebay_price": "2.49",
           "amazon_price": "0.99",
           "coolstuffinc_price": "1.99"
@@ -47541,8 +47541,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.02",
-          "tcgplayer_price": "0.08",
+          "cardmarket_price": "0.05",
+          "tcgplayer_price": "0.10",
           "ebay_price": "1.50",
           "amazon_price": "2.67",
           "coolstuffinc_price": "1.99"
@@ -47602,8 +47602,8 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "1.50",
-          "tcgplayer_price": "1.05",
+          "cardmarket_price": "1.31",
+          "tcgplayer_price": "1.07",
           "ebay_price": "3.95",
           "amazon_price": "1.64",
           "coolstuffinc_price": "1.49"
@@ -47669,7 +47669,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.45",
+          "cardmarket_price": "0.65",
           "tcgplayer_price": "0.45",
           "ebay_price": "3.60",
           "amazon_price": "0.99",
@@ -47743,7 +47743,7 @@
       ],
       "card_prices": [
         {
-          "cardmarket_price": "0.31",
+          "cardmarket_price": "0.26",
           "tcgplayer_price": "0.27",
           "ebay_price": "1.33",
           "amazon_price": "0.70",

@@ -22,11 +22,21 @@ After installing dependencies, run the scraper:
 uv run scraper.py
 ```
 
-This will create a `genesys.json` file in the base directory containing the scraped card data.
+This will create a `genesys.json` file in the base directory containing the scraped card data with full YGOPRO enrichment.
+
+### Export Genesys Data Only
+
+To export the raw Genesys data without the additional YGOPRO enrichment, use the `-g` (or `--genesys`) flag:
+
+```bash
+uv run scraper.py -g
+```
+
+Both commands accept an optional `--output-path` argument if you want to write to a different file.
 
 ## 🎴 Data Format
 
-The scraper retrieves card information from the official Genesys Format website and enriches it with complete card data from the [YGOPRODeck API](https://ygoprodeck.com/api-guide/). Each entry in `genesys.json` contains:
+The scraper retrieves card information from the official Genesys Format website and, by default, enriches it with complete card data from the [YGOPRODeck API](https://ygoprodeck.com/api-guide/). Each entry in the enriched dataset contains:
 
 ### Top-Level Structure
 
@@ -94,6 +104,8 @@ The scraper retrieves card information from the official Genesys Format website 
     ]
 }
 ```
+
+If you run the scraper with `--genesys-only`, each record contains only the `card_name` and `points` fields.
 
 ## 🔗 YGOPro API Integration
 

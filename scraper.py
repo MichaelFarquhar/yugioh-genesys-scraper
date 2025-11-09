@@ -1,3 +1,4 @@
+import argparse
 import json
 import re
 import requests
@@ -49,21 +50,64 @@ def scrape_genesys_data():
     return data
 
 
-def main():
+def write_json(data, output_path):
+    """Persist the provided dataset to disk."""
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+def build_dataset(include_ygopro=True):
+    """
+    Scrape Genesys data and optionally enrich it with YGOPro details.
+
+    Returns the dataset ready to be exported.
+    """
     print("Scraping Genesys data...")
-    data = scrape_genesys_data()
-    
+    genesys_data = scrape_genesys_data()
+
+    if not include_ygopro:
+        print("Skipping YGOPro API enrichment; exporting Genesys data only.")
+        return genesys_data
+
     print("Fetching YGOPro API data...")
     ygopro_data = fetch_ygopro_data()
     print(f"Fetched {len(ygopro_data)} cards from YGOPro API")
-    
+
     print("Matching and enriching data...")
-    enriched_data = match_and_enrich_genesys_data(data, ygopro_data)
-    
-    with open("genesys.json", "w", encoding="utf-8") as f:
-        json.dump(enriched_data, f, indent=2, ensure_ascii=False)
-    
-    print(f"Successfully scraped {len(enriched_data)} cards to genesys.json")
+    enriched_data = match_and_enrich_genesys_data(genesys_data, ygopro_data)
+    print(f"Successfully matched {len(enriched_data)} cards with YGOPro data")
+
+    return enriched_data
+
+
+def parse_arguments():
+    """Parse CLI arguments for exporting datasets."""
+    parser = argparse.ArgumentParser(
+        description="Scrape Yu-Gi-Oh! Genesys data and export it as JSON."
+    )
+    parser.add_argument(
+        "-g",
+        "--genesys",
+        dest="genesys_only",
+        action="store_true",
+        help="Export only the Genesys data without YGOPro enrichment.",
+    )
+    parser.add_argument(
+        "--output-path",
+        default="genesys.json",
+        help="Path for the exported JSON file (default: genesys.json).",
+    )
+    return parser.parse_args()
+
+
+def main():
+    args = parse_arguments()
+    include_ygopro = not args.genesys_only
+
+    dataset = build_dataset(include_ygopro=include_ygopro)
+    write_json(dataset, args.output_path)
+
+    print(f"Successfully saved {len(dataset)} cards to {args.output_path}")
 
 
 if __name__ == "__main__":
