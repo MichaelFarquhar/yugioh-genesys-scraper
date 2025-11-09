@@ -1,6 +1,7 @@
 # Yu-Gi-Oh! Genesys Format Scraper
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![UV](https://img.shields.io/badge/uv-30173d?style=for-the-badge&logo=uv&logoColor=DE5FE9)
 
 A Python scraper that extracts Yu-Gi-Oh! Genesys Format card points data from the official website and saves it as JSON. This script scrapes the Genesys Format points table from the official Yu-Gi-Oh! website, extracting card names and their corresponding point values. The data is saved to `genesys.json` in a structured format for easy use.
 
