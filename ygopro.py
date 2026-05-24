@@ -1,7 +1,10 @@
-import re
 import html
+import logging
+import re
 from rapidfuzz import fuzz, process
 from http_client import DEFAULT_TIMEOUT, session
+
+logger = logging.getLogger(__name__)
 
 
 def normalize_name(name):
@@ -111,10 +114,14 @@ def match_and_enrich_genesys_data(genesys_data, ygopro_data):
             if fuzzy_match:
                 matched_card = fuzzy_match
                 fuzzy_matched_cards.append((card_name, similarity_score))
-                print(f"FUZZY MATCH: '{card_name}' matched with {similarity_score:.1f}% similarity")
+                logger.info(
+                    "FUZZY MATCH: '%s' matched with %.1f%% similarity",
+                    card_name,
+                    similarity_score,
+                )
             else:
                 unmatched_cards.append(card_name)
-                print(f"ERROR: No match found for card: {card_name}")
+                logger.warning("No match found for card: %s", card_name)
         
         if matched_card:
             # Add the card_info property with the full YGOPro object
@@ -126,13 +133,13 @@ def match_and_enrich_genesys_data(genesys_data, ygopro_data):
             enriched_data.append(enriched_card)
     
     if fuzzy_matched_cards:
-        print(f"\nTotal fuzzy matched cards: {len(fuzzy_matched_cards)}")
-    
+        logger.info("Total fuzzy matched cards: %d", len(fuzzy_matched_cards))
+
     if unmatched_cards:
-        print(f"\nTotal unmatched cards: {len(unmatched_cards)}")
-        print("Unmatched card names:")
+        logger.warning("Total unmatched cards: %d", len(unmatched_cards))
+        logger.warning("Unmatched card names:")
         for unmatched in unmatched_cards:
-            print(f"  - {unmatched}")
+            logger.warning("  - %s", unmatched)
     
     return enriched_data
 

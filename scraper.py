@@ -1,9 +1,16 @@
 import argparse
 import json
+import logging
 import re
 from bs4 import BeautifulSoup
 from http_client import DEFAULT_TIMEOUT, session
 from ygopro import fetch_ygopro_data, match_and_enrich_genesys_data
+
+logger = logging.getLogger(__name__)
+
+
+def configure_logging():
+    logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 
 def normalize_card_name(name):
@@ -62,20 +69,20 @@ def build_dataset(include_ygopro=True):
 
     Returns the dataset ready to be exported.
     """
-    print("Scraping Genesys data...")
+    logger.info("Scraping Genesys data...")
     genesys_data = scrape_genesys_data()
 
     if not include_ygopro:
-        print("Skipping YGOPro API enrichment; exporting Genesys data only.")
+        logger.info("Skipping YGOPro API enrichment; exporting Genesys data only.")
         return genesys_data
 
-    print("Fetching YGOPro API data...")
+    logger.info("Fetching YGOPro API data...")
     ygopro_data = fetch_ygopro_data()
-    print(f"Fetched {len(ygopro_data)} cards from YGOPro API")
+    logger.info("Fetched %d cards from YGOPro API", len(ygopro_data))
 
-    print("Matching and enriching data...")
+    logger.info("Matching and enriching data...")
     enriched_data = match_and_enrich_genesys_data(genesys_data, ygopro_data)
-    print(f"Successfully matched {len(enriched_data)} cards with YGOPro data")
+    logger.info("Successfully matched %d cards with YGOPro data", len(enriched_data))
 
     return enriched_data
 
@@ -101,13 +108,14 @@ def parse_arguments():
 
 
 def main():
+    configure_logging()
     args = parse_arguments()
     include_ygopro = not args.genesys_only
 
     dataset = build_dataset(include_ygopro=include_ygopro)
     write_json(dataset, args.output_path)
 
-    print(f"Successfully saved {len(dataset)} cards to {args.output_path}")
+    logger.info("Successfully saved %d cards to %s", len(dataset), args.output_path)
 
 
 if __name__ == "__main__":
