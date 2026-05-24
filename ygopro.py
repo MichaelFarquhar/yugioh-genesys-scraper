@@ -1,7 +1,7 @@
-import requests
 import re
 import html
 from rapidfuzz import fuzz, process
+from http_client import DEFAULT_TIMEOUT, session
 
 
 def normalize_name(name):
@@ -37,7 +37,7 @@ def normalize_name(name):
 def fetch_ygopro_data():
     """Fetch all card data from YGOPro API."""
     url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
-    response = requests.get(url)
+    response = session.get(url, timeout=DEFAULT_TIMEOUT)
     response.raise_for_status()
     
     data = response.json()

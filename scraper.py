@@ -1,8 +1,8 @@
 import argparse
 import json
 import re
-import requests
 from bs4 import BeautifulSoup
+from http_client import DEFAULT_TIMEOUT, session
 from ygopro import fetch_ygopro_data, match_and_enrich_genesys_data
 
 
@@ -19,7 +19,7 @@ def normalize_card_name(name):
 
 def scrape_genesys_data():
     url = "https://www.yugioh-card.com/en/genesys/"
-    response = requests.get(url)
+    response = session.get(url, timeout=DEFAULT_TIMEOUT)
     response.raise_for_status()
     
     soup = BeautifulSoup(response.content, "html.parser")
