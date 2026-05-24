@@ -1,4 +1,10 @@
-## Overview
+---
+description: Yu-Gi-Oh! Genesys scraper overview, entry points, and workflow
+globs: **/*.py
+alwaysApply: false
+---
+
+# Yu-Gi-Oh! Genesys Scraper
 
 This project scrapes Yu-Gi-Oh! Genesys Format point values from the official site, optionally enriching the results with card metadata from the YGOPRODeck API, and exports everything to JSON.
 
@@ -18,4 +24,3 @@ This project scrapes Yu-Gi-Oh! Genesys Format point values from the official sit
 - `scrape_genesys_data()` uses BeautifulSoup to parse the Genesys table.
 - Fuzzy matching relies on RapidFuzz to tolerate naming differences across sources.
 - Output is UTF-8 JSON with indentation for readability.
-
